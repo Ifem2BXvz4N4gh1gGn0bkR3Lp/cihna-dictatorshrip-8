@@ -1,0 +1,2065 @@
+= China Dictatorship 中国独裁统治
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title:
+
+Chinese "Communist" <<dictatorship,"Dictatorship">> "facts". 中国《共产主义》<<dictatorship,《独裁统治》>>的《事实》。Home to the <<faq,all-answering FAQ>> and the <<news,"fake" "anti-China" news compilation>>. <<faq,常见问答集>>和<<news,《反对中国》的《假新闻》集>>。<<xi-abolishes-term-limits-2018-03,Heil Xi>>. <<xi-abolishes-term-limits-2018-03,习万岁>>。
+
+toc::[]
+
+[[faq]]
+== FAQ 常见问答集
+
+[[why-keyword-attack]]
+=== Why are you attacking websites with censored keywords?
+
+<<keyword-attack, The attack>>.
+
+To <<effective,destroy the firewall>>.
+
+This would then end <<censorship>>.
+
+And then <<dictator-needs-gfw,I believe>> that this would also <<why-end-dictatorship,end the dictatorship>>.
+
+The keyword attacks increase the cost of censorship.
+
+If commies censor things, they will get worse IT technology, and thus become less <<richer,less rich>> and militarily powerful.
+
+Since all they care about, like any other politicians, is power, the only way to make them stop censorship is to make the cost of censorship higher than not censoring.
+
+Without the threat that China will be less technologically, and therefore militarily advanced, there is no incentive for the CCP to destroy the firewall.
+
+The goal is to put them in a position where they have to choose between either:
+
+* having military power
+* remaining a <<dictatorship,dictatorship>>
+
+but not both, since having both means that they will <<war,start WW3 and destroy humanity>>
+
+[[harm-programmers]]
+==== Do you want to harm the Chinese programmers?
+
+No.
+
+This is not a revenge of any kind.
+
+I know I am harming you on the short term, and I don't like myself for it.
+
+But I believe that this harm is a necessary means to reach my real goal, which is to destroy the firewall, and the dictatorship.
+
+Don't you think it is worth a try? Destroying the firewall, would <<why-end-dictatorship,enormously benefit>> not only Chinese programmers, but every single other Chinese person too.
+
+Once the firewall is destroyed, which <<dictator-needs-gfw,may destroy the dictatorship>>, I want China to develop the best science and technology in the world, and <<would-you-like-to-live-in-china>>.
+
+And by the way, by contributing to open source, I am already helping China, and all underdeveloped countries become stronger.
+
+See also: <<your-profile-disturbs-me>>.
+
+[[why-end-dictatorship]]
+=== Why do you want to end the dictatorship?
+
+Because I think that this would make China, and the world:
+
+* <<richer,richer>>
+* less likely to get into <<war,WW3>>
+
+[[richer]]
+==== Why would democracy and freedom of speech make China richer?
+
+There is infinite debate about this out there, some examples:
+
+* http://www.becker-posner-blog.com/2011/05/can-poor-countries-afford-democracy-becker.html
+* https://www.quora.com/Is-democracy-or-authoritarianism-better-for-developing-countries
+
+For:
+
+* dictatorships are more likely to start <<war>> or other crazy policies like the Great Leap Forward, which completely destroy the economy in one go
+* society becomes richer when people know that they can do their startups, get rich, and stay in the country without fear of being persecuted unfairly and losing everything instead of migrating to Canada.
++
+Any criticism of the government, even if constructive, is taken as menace to power, and more likely to be shut down, which makes the government and just becomes less efficient since there is less feedback.
+* governments are monopolies, and the more powerful they are, the worst it is for competition an efficiency in general. E.g.: the startup with better government ties wins, instead of the most efficient one.
+* dictatorships need <<censorship>> to survive, and they must control all information to make themselves always look good.
++
+As a result, knowledge of problems flows more slowly, and therefore they also take longer to solve.
++
+Maybe this hurts my argument, but Hillary agrees: https://www.youtube.com/watch?v=ccGzOJHE1rw&feature=youtu.be&t=2110 "Secretary Clinton Speaks on Internet Freedom", U.S. Department of State, 2010-01-22 :-)
++
+____
+But countries that restrict free access to information or violate the basic rights of internet users risk walling themselves off from the progress of the next century
+____
++
+Also mentioned at: link:https://youtu.be/d3dE_LDz_9E?t=1681[Google versus China - VPRO documentary - 2011]
++
+This is also well illustrated in the link:https://en.wikipedia.org/wiki/Chernobyl_(miniseries)[HBO 2019 miniseries "Chernobyl"], which suggests that part of the reason why Chernobyl happened is because of the Soviet Union's obsession to save face.
+
+Against:
+
+* presidents only care about the 4-8 year horizon, while dictators can make longer term decisions to maintain power forever, their power being limited only by "the people are happy enough to not start a revolution"
+* dictatorships can make changes faster without the same amount of discussion that happens in democracies, where power is more spread out.
++
+Killing a million people will make us richer? No problem, let's do it.
++
+That is great when they make good decisions, but it sucks when they make <<war,bad ones>> more likely.
+
+I really like Posners' way of putting it:
+
+____
+While average rate of growth do not appear to differ much between democracies and authoritarian regimes, the variability in performance does differ more among authoritarian governments. China has had remarkable growth since the 1980s, but the prolonged devastation and hardship produced by China's “great leap forward” (when millions of farmers starved to death) and its Cultural Revolution would unlikely have occurred in a democratic country like say India. Nor is it likely that say Cuba and many African nations would have suffered so long with such terrible economic policies if they had reasonably democratic institutions.
+____
+
+Maybe China was poor because of Mao's crazy communist regime. Similar regimes also made <<russia>> poor. And yes, before that exploitation by the West may have been a factor.
+
+Definitely, the current regime is better than Mao's, but just imagine how rich China could be if it had more freedom and justice.
+
+Imperial China lost the race for the Industrial Revolution. Will another dictatorship be able to stay on top of the next technological revolution?
+
+[[war]]
+==== Why would democracy and freedom of speech make China less likely to start a war?
+
+This has been discussed to death:
+
+* https://en.wikipedia.org/wiki/Democratic_peace_theory
+* https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch
+
+Some arguments include:
+
+* the people who will actually fight and die on the front can't vote against it
+* dictators have huge power, so if they put it in their heads that they want to start a war, it is much harder for sensible people to stop them
+* dictators need <<fear-of-west,to keep the people in fear all the time to keep their power>>, and a war is a great way to achieve that
+
+[[fear-of-west]]
+==== The commies exaggerate the thread of the West to keep in power
+
+This is a common strategy, but the West is not as evil as they say:
+
+____
+Once upon a time, there was a farmer with a farm.
+
+One day, the animals in the farm started feeling a bit trapped, and started bumping against the fence to get out.
+
+The farmer, however, was smart, and told the animals:
+
+_____
+Careful! There is a wolf outside! If you go out, you will be eaten by the wolf!
+_____
+
+The animals, were not that smart, and listened to the farmer, they were afraid!
+
+From time to time, one of the animals would disappear (and without their knowledge, reappear on the farmer's dinner table).
+
+But the farmer kept giving the animals delicious food without them doing any effort, so they decided to believe the farmer's explanation that that animal had escaped and been eaten by the wolf.
+
+Maybe, there was actually a wolf outside. But if they had escaped, only some of the animals would have been eaten by that wolf.
+
+But by staying in the farm, all the animals were, sooner or later, eaten one by one.
+____
+
+TODO source.
+
+==== The Chinese masses are still uneducated, and not fit for free speech and democracy
+
+When will they be ready? Who decides? What if they think that they are ready now?
+
+[[effective]]
+=== Will the keyword attacks really help to destroy the firewall?
+
+==== Embargoes make the dictatorship stronger
+
+The <<keyword-attack,keyword attack>> is basically an embargo.
+
+There is already a lot of literature about this, specially in the cases of Cuba and North Korea. It is basically a libertarian vs conservative / Cato vs Heritage thing in the US:
+
+* https://www.cato.org/publications/commentary/no-embargo-harms-cubans-gives-castro-excuse-policy-failures-regime
+* https://www.heritage.org/trade/report/why-the-cuban-trade-embargo-should-be-maintained
+* http://www.slate.com/articles/news_and_politics/the_big_idea/2006/08/thanks_for_the_sanctions.html
+
+The key dilemma is is:
+
+* if we keep contact with the Dictatorship, maybe its people will see that democracy is better and start a liberating revolution
+* if we keep giving technology to the Dictatorship and it does not become a democracy, we are making a Dictatorship more technologically advanced, and therefore <<war,dangerous>>
+
+Some interesting aspects of the keyword attack embargo:
+
+* it is immediately self enforcing: we don't need politicians to decide and enforce the complex "if you do this, we punish you like that" question.
++
+By political and technological information is together, and this immediately puts the dictatorship in a bad spot, without us having to decide anything.
+* by affecting programmers in particular through Stack Overflow and GitHub, we make them more likely to develop better Firewall climbing tools themselves
+
+One point in favor of the embargo is that China has opened up since the 80's 90's, but did freedom improve at all? Under Xi Jinping, it may be argued that it did not, and maybe that we should just stop feeding them technology and accept that they won't become free.
+
+Trump's link:https://www.theguardian.com/commentisfree/2019/jun/02/trump-banning-huawei-beginning-of-biggest-trade-war-ever-united-states[2019 China trade war], and in particular the Huawei ban, is an event that have brought this question to the spotlight once again.
+
+===== Keyword attacks could be used by certain CCP political groups to justify blocking off the entire external Internet, and make the dictatorship even more pervasive
+
+It is a risk, but it would make China drastically <<richer,less powerful>>, so at least they wouldn't be able to start or sustain <<war,WW3>>. So I don't think it will go that way.
+
+==== What you are doing will never have any effect
+
+That is true with high probability, just like any other individual which tries to influence 1B people.
+
+Every action is statistical: I just push the balance a little bit towards freedom.
+
+This FAQ and any talk is useless. You and I are wasting our times here.
+
+The possibility of blocking Stack Overflow and GitHub is 1000x more useful than any talk, but it is still useless.
+
+However, potentially blocking those websites takes <<better-to-do,0 of my time>>, I just leave the content there, so it is worth my time.
+
+To have an idea, in 2015 there are about:
+
+* 20M developers in the world
+* 2M in China : https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world http://www.techrepublic.com/blog/european-technology/there-are-185-million-software-developers-in-the-world-but-which-country-has-the-most/
+* 5M Stack Overflow users http://data.stackexchange.com/stackoverflow/query/227868/select-count-from-users
+* TODO I wonder what percentage of GDP those programmers control. I'll bet any programmer on Stack Overflow is at least 5x more powerful than the average Chinese.
+
+And if we never start somewhere, nothing will ever happen.
+
+[[so-block-cost]]
+==== Stack Overflow and GitHub could be blocked at no cost by the Chinese government
+
+Hitting the block button has of course no cost.
+
+The cost of blocking Stack Overflow lies of course in the loss of information, and slower technological development, see also: <<why-keyword-attack>>
+
+Remember that it is not possible for the Chinese government to block only certain pages of HTTPS websites due to encryption: either the entire IP / domain name is blocked, or nothing.
+
+The 2019 996.ICU event however brought to my attention that Chinese (usually WebKit-based) browsers are already censoring HTTPS websites selectively of course, see e.g.: https://github.com/996browser/996.BROWSER/tree/77f28a36a862e3cc4d238dc47c19872156096bc4
+
+But I doubt developers use those browsers right? The only way would be for China to forbid foreign browsers entirely.
+
+[[dictator-needs-gfw]]
+=== Would ending the great firewall truly end the dictatorship?
+
+Not 100% sure.
+
+In <<Russia>> for example, the Internet is relatively free, but the government controls most professional media, which is what most people end up seeing, by suing dissidents media out of business.
+
+But on the other hand Russia is already much freer than China.
+
+Although I don't like them, I can't deny one thing: the commies are smart, and when they do something (e.g. censorship), it tends to keep them in power.
+
+=== This is your personal problem, we have nothing to do with it, stop punishing us for it
+
+We have to fight for justice for our fellows, or else when injustice happens to us, no one will fight for use either.
+
+Every form of protest incurs some damage. E.g., if we manifest on the street, it generates a traffic jam.
+
+I don't like it, but I think it is worth it.
+
+How can you be that certain that your children won't have dissident ideas and be punished unfairly for them?
+
+Intolerance is a risky way to live.
+
+If you just work to make money and have a good life, without any plans to improve the government, you are just making the economy of the dictatorship stronger, then when they start a <<war,war>> or kill yet another minority, blood will also be on your hands.
+
+[[stability]]
+=== If anyone disagrees with the government they must be punished to keep the stability of the country
+
+Destroying diversity is the best way to reach a point where everyone can agree to start a new big war and destroy everything.
+
+The CCP thrives on the excessive fear it instigate into its own people.
+
+How can society improve, if we are never allowed to try new things out?
+
+Change does not require violence. Violence happens because the government punishes any dissidence, even if pacific, to retain its own power.
+
+In democracies, radical policy changes happen without dropping a single drop of blood. People vote, and policies change, end of story.
+
+=== You are using Stack Overflow in a way that it was not meant to be used, so what you are doing is in principle wrong
+
+Any act of protest will use things in ways that it was not meant to be used.
+
+For example, the street is not meant to showcase protest banners, it is meant to be a passageway for cars.
+
+As engineers, we have a moral responsability towards society. We should not blindly follow orders of those in power if it violates our principles, e.g. build weapons or censorship mechanisms. And we should freely express our principles and violation concerns.
+
+Making a statement where no one will ever see it, like a personal website, is <<effective,sure to have no effect>>.
+
+Finally, it is up to the Stack Overflow community to decide what is right or wrong, and so far the consensus is go ahead:
+
+* http://meta.stackoverflow.com/questions/298950/are-political-profiles-that-could-possibly-affect-the-participations-of-other-us
+* http://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
+* http://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* http://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u/286090#286090, see public figure comments
+
+Much of the best art and technology is about using something in a way that it wasn't meant to be used.
+
+==== Are you making programming contributions with the main intent of promoting your political agenda?
+
+No, that is just a side effect.
+
+If that were the case, I would definitely target more widely technologies, in particular Web and JavaScript, instead of obscure things like C and assembly in which I have spent tons of my time.
+
+Also, as I've said elsewhere, my actions are very unlikely to have any actions. Much more likely to have any action, would be for me to become rich and powerful first, and the best way to do that is to invest in whatever I think is most useful.
+
+Actually, it can even be argued that I'm somewhat irrational, since I would much more likely become rich and powerful by bowing down to the CCP and trying to get their money instead.
+
+On the other hand, becoming rich and powerful is also highly unlikely, so maybe I'm just taking a low risk low reward path?
+
+I have very little free time, and will never do something for political reasons, only things that interest me technically.
+
+Finally, do you really think I'd be able to make such awesome projects if I had primarily political considerations in mind? XD
+
+===== Are you making trivial edits on questions just to spam your name further?
+
+No.
+
+I just think that website is great, and want to push it to perfection, in particular with better Google keyword hits, and uniform gramatically correct titles.
+
+If you think that any of my edits were harmful, please ping me and open a meta thread to discuss specific edits, and I will comply with consensus.
+
+==== Your profile disturbs me
+
+I know, but isn't it better to be annoyed than having <<war,war>>, <<richer,being poor>> or <<xinjiang,put into jail unfairly>>?
+
+If the truth is too much for you to bear >:-), have a look at this cool browser extension to clean up Stack Overflow: https://greasyfork.org/en/scripts/32236-stackoverflow净化器
+
+See also: <<harm-programmers>>.
+
+=== You are not Chinese, you can't interfere in Chinese politics
+
+. We live in the same world.
++
+If China's <<richer,economy>> is bad, my economy is worse.
++
+If China's environment is bad, my environment is worse.
++
+If China <<war,starts a war>>, I might have to fight it.
+. If I lived under a dictatorship, I would welcome foreign intervention.
++
+Even if you don't, I know several Chinese who do.
++
+Are you certain that your beloved CCP would be in power today if the link:https://china-journal.org/2018/02/26/why-did-chiang-kai-shek-lose-china-the-guomindang-regime-and-the-victory-of-the-chinese-communist-party[Japanese hadn't weakened the Guomindang] and the link:https://www.wilsoncenter.org/blog-post/how-stalin-elevated-the-chinese-communist-party-to-power-xinjiang-1949[Soviet Union helped out Mao]?
+. You have been brainwashed by the commies who say that all foreigners are bad :-)
++
+The commies do this because most foreign countries are telling the Chinese to get rid of the dictatorship.
++
+Most foreigners actually want what is best for China.
+. You can't do anything about it.
++
+I don't like this argument, but in the end, this is what all politics comes down to: power.
++
+I recognize that in that sense, I may be similar to the CCP and any other political party.
+
+[[not-chinese]]
+==== You are not Chinese, you have been brainwashed by the USA know nothing about China
+
+Everyone is "brainwashed" by their environment.
+
+I don't doubt that you know more about China than me.
+
+But if you are Chinese, also consider that you have been brainwashed by the commies, so likely much more than me since you live in a dictatorship.
+
+So, instead of saying that, why don't you just actually prove your point by teaching me something interesting about China that I don't know about? I love learning new things.
+
+But please, link to reference material instead of just saying it, it will be much more convincing.
+
+===== Can I contact you in Chinese?
+
+If you don't know English well enough, that's fine though, go for Chinese.
+
+But if you do, use English.
+
+I am not going to learn Chinese because of your message.
+
+It is more productive for you to write in English, so that the rest of the West can also learn something new.
+
+Especially since it seems that most Chinese already know what you are talking about.
+
+See also: <<what-is-your-chinese-level>>.
+
+[[preconceived]]
+===== You have a preconceived opinion about China that cannot be changed
+
+I try to justify here why I think China would be better with democracy, but I know that ultimately all of this is useless.
+
+Our opinions are all determined genetically and by bring-up, and there is nothing I can do to change yours, or you change mine.
+
+From that point of view, all of this is just a cold blooded political game, in which I try to force the CCP to take down the Firewall: <<why-keyword-attack>>.
+
+Unfortunately I'm still still human and do get annoyed or sad sometimes, but never mad, even if your opinion is contrary to mine, and therefore wrong :-)
+
+I also have doubts about certain things I do as expressed throughout this FAQ.
+
+Also, I have never said that that anyone else is wrong.
+
+In the end, I just end up thinking about new replies to things people say to me, and add them to this FAQ so that future replies will be faster to copy paste. See also: <<better-to-do>>.
+
+==== Have you ever lived in China?
+
+No, only visited once.
+
+And I don't think it is a good idea for me to do that now :-)
+
+But I know that if you don't mind contributing to making <<war,WW3>> deadlier and shut up and obey the CCP, China is already a fine place to live as much as any other developing country.
+
+===== Would you like to live in China?
+
+If the dictatorship ends, I would like to <<do-you-hate-china,migrate to China>> if given a decent job to help you develop and become awesomer.
+
+==== What is your Chinese level?
+
+Oral enough for daily things, but not understand a natural casual dinner conversation or watch TV series.
+
+If it matters, with some patience, I can make myself understood though with some analogies and a dictionary.
+
+I read with link:http://www.perapera.org/[Perapera], write with a mixture of link:https://www.pleco.com/[Pleco], Google translate and Googling to see if Chinese actually say the sentences that way.
+
+I haven't tried to learn characters, too much effort, but I learnt the most common ones without trying.
+
+I really wish I could learn more, but I have other more important endeavours at the moment :-(
+
+Spoken Chinese is in my opinion a relatively easy language to learn from scratch, because word formation is so often logical (火山，火车), and there is no useless crap like verb conjugation and genre. I love this language.
+
+Please just get rid of the Chinese characters and move to pinyin like the Korean and Vietnamese did, this will make your culture much easier to export. Characters are beautiful, but just take too much time to learn.
+
+[[bias]]
+=== This repository is completely biased against the Chinese Government!
+
+I prefer the term focused :-)
+
+That being said, I take the agenda of information sources very seriously.
+
+E.g. I try to clearly classify Communist Party, Falun Gong, and Western government linked sources.
+
+Any evidence of positive political progress will also be added to this repo, e.g. people openly discussing politics online, human rights activists doing political stuff and not being put into jail, etc.
+
+Party promises do not count, only reports of activities by individuals.
+
+See also:
+
+* <<preconceived>>
+* <<flg-bias>>
+
+=== China is fine as it is, stop making it worse
+
+Welcome to the wonderful world of democracy, a world where people can have different political opinions than you :-)
+
+See also:
+
+* <<why-end-dictatorship>>
+* <<preconceived>>
+
+==== I like my Dictatorship
+
+I can understand that.
+
+It must feel good to have absolute truth in the <<democracy-is-a-religion,Cult of Xi>>, and let the black police <<against-censorship-and-flg,get rid of weirdos for you>>.
+
+A scene from the awesome mini-series link:https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring[Seventeen Moments of Script (1973)] comes to mind.
+
+In link:https://youtu.be/YsXhgzX56cA?t=2086[Episode 7, 34:46], the main character, Stierlitz, who is an undercover Soviet spy in Germany during WW2, travels on a train with a link:https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum[Nazi officer].
+
+The war is almost over, and the desolate officer tells Stierlitz:
+
+____
+I told my children: I hate democracy!
+
+No democracy in our Reich!
+
+Any democracy in our country is doomed to end up with one thing: the dictatorship of small shopkeepers.
+
+The more freedom we have, the more we want to be controlled by the SS again.
+
+And then we want our secret police back, and concentration death camps again, and the universal fear everywhere!
+
+Only then can we feel ourselves calm and secure.
+
+No need to prove your point of view in defending the fate of the home land.
+
+No responsibility.
+
+Just raise your hand in the honor of him, who will take care of everything for you.
+
+Just shout "Hail Hitler" and everything becomes understandable.
+
+No more worries.
+____
+
+I find it amusing that a Soviet movie criticizes dictatorships.
+
+=== There are bad things happening all over the world, why don't you fight for those causes as well / instead?
+
+We have to choose the one we think is the worst, and focus on it.
+
+What is worse is a subjective choice. For me:
+
+* I love China and my Chinese wife, see also: <<bias>>
+* I hate dictatorships, and China is the largest one by population / GDP / link:https://www.ploughshares.org/world-nuclear-stockpile-report[nuclear stockpile]
+
+My <<keyword-choice,SO username>> and <<better-to-do,protest time>> are not infinite.
+
+See also: <<western-democracies-are-not-perfect>>
+
+==== Western democracies are not perfect
+
+That is definitely true.
+
+Nothing is perfect in this world.
+
+I just think that they are way better than dictatorships.
+
+As link:https://en.wikipedia.org/wiki/Argument_from_authority[Churchill] once brilliantly link:https://richardlangworth.com/worst-form-of-government[put it]:
+
+____
+Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
+____
+
+However, this is all obviously subjective, and believing that dictatorship is a better form of government is also a valid belief.
+
+See also:
+
+* <<richer>>
+* <<preconceived>>
+* <<bias>>
+
+===== Snowden
+
+The level of unknown surveillance that Snowden uncovered is a bad thing about the US.
+
+However, it is obvious that the level of surveillance in any dictatorship will be infinitely higher, since the Government has much more power.
+
+Snowden's prosecution was inevitable. Countries need secret services. Secret services need laws that prevent leaking classified information that was produced by government officials.
+
+I have never and will never criticize China or any other country for spying or prosecuting spies.
+
+The problem with dictatorships, is that they make _every_ information that makes them look bad a "state secret". Including any information that hundreds of thousands of people have witnessed, or economic performance metrics.
+
+If Snowden were Chinese, the Chinese government would ban talking about him or anything he uncovered. A <<keyword-attack,keyword attack>> with "Snowden" in the West has no effect.
+
+Ultimately, I think camera surveillance is somewhat inevitable, because people will always want to fight crime and terrorism and surveillance technology keeps getting cheaper and cheaper.
+
+I am however strictly against the ban of cryptography.
+
+I also believe that a good solution to balance out government power is the second amendment. I'd rather have more school shootings and less full blown dictatorship led genocides / mass human rights violations.
+
+===== Fake news
+
+When a government controls all information to make it look good, and no one can challenge it, you cannot trust _any_ of the news produced by that country, as anything could be fake.
+
+It is much better to have some fake news, but also few sources which are likely telling the truth.
+
+==== Russia
+
+Russia is clearly the number 2 dictatorship in the world by population / GDP and the link:https://www.ploughshares.org/world-nuclear-stockpile-report[#1 nuclear arsenal], so here we go.
+
+I've always been curious to how Russia can be both oppressive and a democracy, unlike China which doesn't even try to pretend. This is what I gather:
+
+* the government controls all major media. If any media says bad things against them, the government finds pretexts to create lawsuits or increase taxes against such companies. Therefore all people end up thinking that the government is good.
+* just like China, they emphasise the threat of the foreign countries, especially the US, as a justification for having an oppressive power.
+* the government puts pressure on any significant opposition candidate. One technique is to find some reason to put them in jail for 2 months, which by Russian law forbids them from participating in further elections. Only candidates that don't really stand a chance are left as a fake opposition. is fine, but if you reach some prominence, you start taking the same risks as politicians, although you are more likely to face more brutal illegal gangster violence threats as you are less visible
+
+While I'm at it, some interesting news:
+
+* 2018-04 http://www.bbc.co.uk/news/technology-43752337 Russia to block Telegram app over encryption
+* 2017 http://www.bbc.co.uk/news/world-europe-40635267 Russia Jehovah's Witnesses banned after they lose appeal
+* 2017 http://www.scmp.com/news/world/russia-central-asia/article/2085395/its-now-illegal-russia-share-image-putin-possibly-gay
+* 2016 https://news.vice.com/en_us/article/kzgkv3/russians-now-need-a-passport-to-watch-pornhub
+* 2014 link:https://en.wikipedia.org/wiki/Putin_khuylo![]
+* 1995 https://en.wikipedia.org/wiki/Vladislav_Listyev
+
+=== Irrelevant personal questions
+
+==== Why did you start the keyword attack?
+
+The last straw was when in March 2015 my girlfriend's mother was arbitrarily kept 15 days in jail for doing Falun Gong. I posted this at:
+
+* https://twitter.com/cirosantilli/status/579270450984984576
+* https://www.facebook.com/cirosantilli/posts/952661734753174
+
+I then continued because I hate political censorship.
+
+I am against violence. <<do-you-hate-china,I love China>>.
+
+===== Jail post
+
+====== Jail post en
+
+My girlfriend's mother, a 63 year old lady, was kept 15 days inside a Chinese "correctional facility" because she does Falun Gong.
+
+She had to stay all the time in a small room with a bed and a toilet, under video surveillance, being fed three meager meals a day.
+
+I see Falun Gong http://en.wikipedia.org/wiki/Falun_Gong as just another moderate religion which causes no harm to its believers. The only reason that it is unofficially outlawed in China is because the communists fear it as a political competitor.
+
+There was no trial and no explanation. She was going to take a train to visit her sister. But she didn't know that there was an important political event happening in the capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress So the police at the station, who already knew she did Falun Gong, took her away.
+
+When she came back home, the house had been searched and was all messed up. Her religious books and computer were missing.
+
+I'm glad she was not physically harmed. I find it fascinating how even well educated Chinese support a government which simply does not represent some of its people. How will you feel when something like that happens to your own family, and there is nothing you can do about it?
+
+====== Jail post zh
+
+Translation by my wife:
+
+我女朋友的母亲，一位63岁的女士被监禁在一个中国的“劳教所”，只因为她炼法轮功。
+
+她被迫待在一个小屋子里面，只有一张床和一个排泄的地方，一直处在监视器下，每天两个窝头一碗只有几个白菜叶的汤。
+
+我看过法轮功http://en.wikipedia.org/wiki/Falun_Gong 只是一个和平的信仰，对相信它的人没有任何坏处。它在中国被非官方的定为违法（其实没有一项明确法律禁止），唯一的原因就是工产党害怕它是一个政治竞争对手。
+
+没有审讯没有任何解释。她正准备坐火车去看她的姐姐。但是她并不知道那个时候有重要的政治会议正在首都进行：http://en.wikipedia.org/wiki/12th_National_People's_Congress
+所以那些知道她炼法轮功的铁路警察把她带走了。
+
+当她回到家中时，房子被搜查过了，四处一切混乱。她的信仰书籍和电脑都没有了。
+
+我很庆幸的是她身体并没有受到伤害。我觉得很意思的是一些受过良好教育的中国人怎么能够迫害一部分它的人民的政府呢？如果这样的事情发生在你的家庭，而你什么都不能做，你会怎么想？
+
+====== Jail post pt
+
+Translation by myself:
+
+A mãe da minha namorada ficou 15 dias num "centro de correção" chines porque ela faz Falun Gong.
+
+Ela ficou o tempo todo num quarto pequeno com uma cama e banheiro, sobe videovigilância, recebendo 3 refeições pequenas por dia.
+
+Para mim, o Falun Gong http://en.wikipedia.org/wiki/Falun_Gong é apenas mais uma religião moderada que não causa nenhum problema para seus crentes. A única razão pela qual ele é proibido na China é porque os comunistas tem medo dele como competidor politico.
+
+Não houve julgamento nem explicação. Ela ia pegar um trem para ver sua irmã, mas ela não sabia que teria um evento político importante na capital: http://en.wikipedia.org/wiki/12th_National_People's_Congress Então a polícia da estação, que já sabia que ela faz Falun Gong pegou ela.
+
+Quando ela voltou pra casa, a casa tinha sido procurada pela polícia e estava uma bagunça. Os livros religiosos e seu computador foram confiscados.
+
+Eu fico feliz apenas que ela não sofreu abuso físico. Eu acho fascinante como mesmo muitos chineses educados apoiam ainda um governo que não representa parte do povo. Como você vai se sentir quando algo do tipo acontecerá com a sua família, e você não pode fazer nada sobre isso?
+
+===== Further details about my mother-in-law's persecution
+
+March 2015: 15 days in jail for no reason: https://www.facebook.com/cirosantilli/posts/952661734753174
+
+June 2017: 3 cops came to her house. She was there. They asked if she still did Falun Gong. She said yes. They took photos of her Falun Gong books / posters. They were polite.
+
+October 2017: 7 - 8 cops came to her house _at 11PM_. They knocked the door strongly and made noise, and questioned neighbours of her whereabouts. Luckily she was not there.
+
+==== Are you a radical?
+
+I don't consider myself a radical because of: <<preconceived>>
+
+I never get mad. Only a slightly sad or annoyed sometimes.
+
+But maybe no radical ever considers himself radical? Hmmm...
+
+link:https://www.youtube.com/watch?v=efHCdKb5UWc[The Dark Knight - Some Men Just Want To Watch The World Burn]. I worry sometimes.
+
+==== Do you think Chinese politician X evil?
+
+The term evil does not make sense to me.
+
+The best definition I can reach is a psychopath with zero empathy for anyone: https://en.wikipedia.org/wiki/Psychopathy although I think that can be better characterized as a disease or extreme personality trait.
+
+I believe that the huge majority of those politicians are just regular dudes with a knack for politics but brought up in a fucked up political situation.
+
+Just like you, me and other politicians in any country.
+
+==== Do you think the Chinese government is evil?
+
+No, just <<richer,inefficient>> and <<war,dangerous>>.
+
+To me, it's just another non-democratic empire like the Qing Dynasty. 共产朝 as I call them. But alas, I'm not the inventor of the expression: http://web.archive.org/web/20161025220242/http://tieba.baidu.com/p/752094668
+
+==== Are you a SJW?
+
+SJW: there is a seed of SJW in me.
+
+One major difference between me and the stereotypical SJW is that I never engage in lengthy discussions.
+
+I limit myself to listening as much as I can to learn new arguments.
+
+So the rationale of my actions is _not_ to convince anyone, but rather:
+
+* increase the monetary cost of censorship by binding politics to tech
+* group up like minded people who don't like censorship
+
+See also: <<preconceived>>
+
+==== Do you hate China?
+
+On the contrary. China has my favorite food, <<what-is-your-chinese-level,language>>, history, culture and nature in the world. And because of that: <<would-you-like-to-live-in-china>>.
+
+As link:https://en.wikipedia.org/wiki/Bjarne_Stroustrup[Bjarne] said:
+
+____
+There are only two kinds of programming languages: those people always bitch about and those nobody uses
+____
+
+I only focus here on negative things to provide content that will activate the Great Firewall.
+
+===== Why do you love China so much?
+
+I don't believe in reincarnation, but sometimes I'm tempted to.
+
+Interesting how different people get <<do-you-hate-china,different impressions>>!
+
+[[famous]]
+==== Are you doing this just to become famous?
+
+No, I am a selfless human being, only concerned with the greater well being of humankind.
+
+More serious answer:
+
+* I believe in this. As evidence, it has limiting effects on my technological career: <<does-your-employer-support-this>>, and I don't think I can / want to become a politician 
+* the more famous I am, the more impact I will have in the future
+* the more famous I am, the more feedback I have that what I've been doing has been working
+
+Keyword: attention whore.
+
+===== Are you doing this because it makes you feel important?
+
+See: <<famous>>.
+
+==== Would you be doing this if you were in China?
+
+Not with my real name attached to it.
+
+==== Do you believe in or practice Falun Gong?
+
+No, I'm agnostic: https://en.wikipedia.org/wiki/Agnosticism
+
+Here are some things that I don't like about Falun Gong for example: <<things-i-personally-dislike-about-flg>>.
+
+See also: <<flg-is-fake>>.
+
+===== How much do you know about Falun Gong's claims?
+
+I haven't read their <<flg-canon,canon>> myself, no patience, but I have constant contact with believers and so have an idea of its content.
+
+[[flg-canon]]
+===== What are the canonical Falun Gong texts?
+
+It appears that Falun Gong cannon is present at: http://falundafa.org/
+
+It contains <<flg-lhz,LHZ>>'s approved texts / speech transcriptions, which are sacred.
+
+The only sacred version is Chinese which is a sacred language, and of which there is only one perfect revision.
+
+I think <<flg-lhz,LHZ>> claims the specifically chose to reincarnate in China this time.
+
+The English translation is made by followers, and gets new revisions to reduce translation imperfection.
+
+However, the Chinese language seems to be fundamentally sacred, and there might never be an sacred English version approved by LZH.
+
+This is a reasonable command to download the English cannon for grepping:
+
+....
+wget -r -l inf --no-remove-listing --no-clobber --no-parent -w 2 https://en.falundafa.org/falun-dafa-books.html
+....
+
+TODO: need to find a way to wrap lines, otherwise grep might fail on sentences.
+
+Nothing else is canonical. LHZ seems to have said that there are enlightened followers, but has not specified who, so we can't derive canon from anyone else.
+
+Notably, <<flg-organized,FLG media>> such as http://www.minghui.org/ is believer led and thus not canonical.
+
+=== Is your campaign funded or otherwise supported by some organization?
+
+Nope.
+
+But then, a shady supporting organization might require that I don't disclose their support, so maybe the best answer is that you will never know for sure.
+
+Of course, a hidden support would represent a reputation hit for both such organization and for me, which makes it less likely that I would have accepted or had such an offer.
+
+Also consider my motivation. If your mother in law were put into jail unfairly for 15 days, for following the same religion that your wife follows, and if you had a social media presence, wouldn't you be tempted to do the same?
+
+What about you, are you funded by the CCP?
+
+See also: https://github.com/cirosantilli/china-dictatorship/blob/48a95bf57a16b85619a6ae68702d18c9a5078797/FAQ.md#flg-has-been-funded-by-the-us-government-at-least-once-therefore-it-is-evil
+
+==== Does your employer support this?
+
+My employer has nothing to do with this.
+
+He doesn't approve or disapprove of the Chinese government or of my private actions.
+
+The only thing that my employer _does_ believe in is that employees can have their own political opinions, and that this should not affect hiring decisions.
+
+Obviously, this action limits my ability to lead high profile deals with China.
+
+Also I'm quite curious if this would limit my ability to go to China for business, but I haven't applied for a visa since I've started this. It likely wouldn't be a good idea for me to go to China :-)
+
+But my employer believes that inclusion and non-discrimination is more valuable.
+
+I will always do my best to not let my personal opinions affect my professional decisions, as that would be unfair to my employer.
+
+[[better-to-do]]
+==== Don't you have anything better to do?
+
+In 1989, a beautiful thing called the World Wide Web was invented.
+
+The Internet gives everyone the magic power of writing something, and having million people read it for free!
+
+This is how much time I spend on this to give you an idea:
+
+* every week or two, someone sends me a message, I reply with "read the FAQ", and usually update
+* I follow https://www.reddit.com/r/China amongst many other programming subs, and all major bad news show up there. See also: <<anti-commie-info>>
+* when something bad enough comes up, I go to https://chinadigitaltimes.net/china/sensitive-words-series/ and update <<keyword-attack,my keyword attack>>. I've only been updating it on Stack Overflow and GitHub these days.
+
+Then I just contribute to programming websites exactly as I would if I weren't making this campaign.
+
+=== Were you influenced by the Cute cat theory of digital activism?
+
+https://en.wikipedia.org/wiki/Cute_cat_theory_of_digital_activism
+
+Nope, someone told me about it after a while, but it is basically what I'm doing.
+
+You can never invent anything new anymore nowadays.
+
+=== People in China have already considered democracy, and rejected it
+
+OK, shall we put that to an anonymous vote just to make sure?
+
+Dear sir or madam: do you want more control over your government? y/n
+
+=== Are for a violent revolution to overthrow the CCP?
+
+No, I'm against physical violence.
+
+And furthermore it would never work, since the CCP controls the army.
+
+I propose instead a revolution of ideas, and efficient link:https://en.wikipedia.org/wiki/Nonviolent_resistance[nonviolent resistance].
+
+Where efficient means: if you are a dissident, use privacy technology, and weight well the benefit vs risks of your actions.
+
+You are often more useful to the cause outside of jail than inside.
+
+[[dictatorship]]
+=== Why do you say China is a dictatorship?
+
+True, I'm using the word in an extended / jokingly sense.
+
+Maybe authoritarian is a more precise term.
+
+In particular, dictatorships are harder to sustain than authoritarianism, since it generally implies even less freedom.
+
+Dictatorship is becoming link:https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html[more and more precise under Xi] however.
+
+[[keyword-attack]]
+=== What is a screen name keyword attack?
+
+Adding censored words to your username: https://stackoverflow.com/users/895245
+
+This only works on websites that show usernames everywhere.
+
+This then leads to your username appearing on thousands of pages, depending on how much you contribute to the website.
+
+It is also possible to do it with with images, although this is less effective in taking down websites since images are harder to track automatically.
+
+This type of attack is essentially an embargo.
+
+==== Do Stack Overflow policies allow for keyword attacks?
+
+The current consensus is yes:
+
+* https://meta.stackexchange.com/questions/286082/does-the-be-nice-policy-require-se-users-to-be-nice-to-people-who-are-not-se-u
+* https://meta.stackoverflow.com/questions/267368/are-political-avatars-and-profiles-ok
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/299882/can-a-username-be-considered-spam
+* https://meta.stackoverflow.com/questions/349131/users-political-display-name-triggering-government-action-against-users-who-vie
+
+The Chinese law doesn't I'm afraid :-( https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
+
+[[anti-commie-info]]
+==== What are the best sources of anti-commie news?
+
+https://www.reddit.com/r/China
+
+Catches all the important news
+
+A large part of the posts is controversion material.
+
+Has some noise of course as well, but less than other media I find.
+
+Highly worth your feed.
+
+Reddit was banned in China in August 2018: https://www.reddit.com/r/China/comments/965k4c/reddit_banned_in_china/
+
+Tecent will invest 150 million on Reddit in 2019: https://gizmodo.com/reddit-banned-in-china-is-reportedly-set-to-land-150-1832375439 See also: <<biased-media>>.
+
+==== Where can I find good words for a keyword attack?
+
+* https://chinadigitaltimes.net This is the best source I've seen so far. Extremely comprehensive and up-to-date.
+** https://chinadigitaltimes.net/china/word-of-the-week/?view=all word of the week
+** https://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/?view=all censorship directive reports
+*** https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all chinese version
+** https://chinadigitaltimes.net/space/Main_Page a wiki version of the censored word lists, the "Grass-mud horse index" (cao3n2ma3 草泥马), with a censored term of the week section.
+** https://chinadigitaltimes.net/china/sensitive-words-series/?view=all sensitive words list
+** Fun 2015 ebook: https://github.com/cirosantilli/decoding-chinese-internet-pdf-download
+* https://en.wikipedia.org/wiki/List_of_blacklisted_keywords_in_China> <https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8
+* https://github.com/jasonqng/chinese-keywords
+* link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[]
+* https://qz.com/698990/261-ways-to-refer-to-the-tiananmen-square-massacre-in-china/ 261 ways to refer to the Tiananmen Square Massacre in China
+
+[[keyword-choice]]
+==== How do you choose keyword for the keyword attack?
+
+I haven't counted, but the limit for Stack Overflow is quite low, and I'm always almost at the maximum, which is about "Ciro Santilli" + 3 3-4 Chinese character events with a separator.
+
+These are some of my prioritization guidelies:
+
+* recent cases receive a large prime over raw death toll, because older cases can always be attributed to other people.
++
+E.g., I've heard there is even some opening towards acknowledging the Great Famine, thus 烏坎事件 (and others from my previous profile names)
+* words must refer to a precise event, and must be clearly summarizable in very few chars, for increased impact, and profile name length limitations.
++
+E.g. "High corruption rates, high pollution", although very serious, feel too generic.
+* events that relate directly to freedom of speech receive a prime, since they can only happen in China and very few other countries.
++
+E.g.: Falun Gong, Tiananmen.
++
+Non e.g.: corruption and pollution. Those are hard to quantify, and there is always an immediate reply: china GDP per capita is low, same happens in India, Brazil, etc.
++
+Freedom of speech however, is immediately verifiable (e.g. "my Weibo was taken down"), and undeniably caused by the current central government.
+* the more people affected, and the more deeply they have been affected, the more important obviously
+
+I am currently trying to maintain in my Stack Overflow Location a ranking of events in a single string, so that it can be easily copy pasted around. The location appears on every page if you hover over my account name, so it is likely in the HTML at least.
+
+If you think that this list can be improved, please open an issue explaining how and why.
+
+==== Are there other openly dissident users on Stack Overflow?
+
+Query to find them: https://data.stackexchange.com/stackoverflow/query/312860/chinese-dissidents-by-keyword-aboutme-or-displayname
+
+Notable ones only here (high rep or innovative criticism):
+
+* "GNUSupporter 8964民主女神 地下教會"
+** Real name: Vincent Tam from social media links.
+** https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** https://web.archive.org/web/20180924203410/https://math.stackexchange.com/users/290189/gnusupporter-8964%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E-%E5%9C%B0%E4%B8%8B%E6%95%99%E6%9C%83
+** Keyword attack inspired by me
+* Yu Hao
+** http://stackoverflow.com/users/1009479/yu-hao
+** http://archive.is/76FCb
+** "GFW (Great Firewall of China) is one of the most notorious inventions in the history of Internet. Anyone working for it should be ashamed."
+* iBug
+** https://stackoverflow.com/users/5958455/ibug
+** iBug http://web.archive.org/web/20190507140910/https://stackoverflow.com/users/5958455/ibug
+** "The Communist Party of China is a state criminal that is continuously committing state crime to ordinary Chinese citizens!" followed by an event list.
+* Scott 混合理论
++
+https://stackoverflow.com/users/1230329/scott-%E6%B7%B7%E5%90%88%E7%90%86%E8%AE%BA
++
+Same message as Yu Hao, I wonder if it is an external thing or direct copy of Yu, but no Google hits besides them.
+* Terry Wang
+** http://stackoverflow.com/users/1801697/terry-wang
+** http://archive.is/V0aSK
+** Lego recreation of Tankman on profile picture.
+
+Users who had GFW references but removed it:
+
+* http://stackoverflow.com/users/4594532/gnimuc-key
+** http://web.archive.org/web/20170331144256/https://stackoverflow.com/users/4594532/gnimuc
+* http://stackoverflow.com/users/651907/jclin
+** http://web.archive.org/web/20160516065151/https://stackoverflow.com/users/651907/jclin
+
+Misc interesting stuff:
+
+* <location>火车站酒店小姐 (about 20 accounts with that pattern)
+** https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** http://web.archive.org/web/20190428090348/https://stackoverflow.com/users/7040504/%E8%8E%86%E7%94%B0%E7%81%AB%E8%BD%A6%E7%AB%99%E9%85%92%E5%BA%97%E5%B0%8F%E5%A7%90
+** Interesting list of prostitution spam / sockpuppets? All have the exact same profile information.
+** Hitting query due to "审查", but the usage is unrelated to the Firewall.
+
+Anti-dissident users:
+
+* https://stackoverflow.com/users/815408
+** https://web.archive.org/web/20170602054631/https://stackoverflow.com/users/815408/%E8%AF%B7%E5%B0%81%E6%8E%89ciro-santilli-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%87%E5%B2%81
+** username: "请封掉Ciro Santilli 中国共产党万岁"
+** profile: "中国万岁！ 中国共产党万岁！ 法轮功，民运，台独在中国共产党的铁蹄下不过是螳臂当车！"
+* https://stackoverflow.com/users/9393161
+** http://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+** username: "Ciro Santilli 的造谣是可耻行为" http://web.archive.org/save/https://stackoverflow.com/users/9393161/ciro-santilli-%E7%9A%84%E9%80%A0%E8%B0%A3%E6%98%AF%E5%8F%AF%E8%80%BB%E8%A1%8C%E4%B8%BA
+* https://stackoverflow.com/users/8454187
+** username: "Snowden Assange Wounded Knee"
+** profile: "燃(ri)烧(si)您(ni)的(de)梦(ma)，Ciro Santilli. StackOverflow上的一个用户. The Oliver Stone Experience"
+** explanation:
+*** "燃烧您的梦": http://www.nq6.com/dj/1674.html
+*** "Wounded Knee": https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+
+Query to find them: http://data.stackexchange.com/stackoverflow/query/312863/mentioned-ciro-santilli-on-aboutme-or-displayname
+
+[[separatism]]
+=== What do you think about separatism?
+
+If a large number of people in a given region want to leave an country strongly or have greater autonomy, I believe that they should be allowed to do so.
+
+Rationale:
+
+* if they don't feel they are getting a good deal out of your country, it is unfair to keep them in
+* keeping them in the country forcibly implies large scale violation of human rights: mass incarceration and removing freedom of speech.
++
+Which in turn implies terrorist backslash.
++
+All of which are against my principles.
+
+What makes me the most mad is the censorship. If you are going to put people in jail, write a clear law about it, and let international reporters come to see the situation.
+
+But why do you do something and then hide it? Maybe because you are not doing the right thing?
+
+[[taiwan]]
+==== Taiwan 台湾
+
+I don't consider Taiwan separatism.
+
+Taiwan is a country split due to civil war, long ago.
+
+The fact that most countries in the world does officially recognize Taiwan as a country is a joke, considering that the only thing keeping it afloat is the West's military threat.
+
+The West must not let China advance and take more territories. The more they take, the more they will want.
+
+The West must protect China's neighbouring countries with military support and assurance.
+
+The West must recognize Taiwan for what it is: a separate country, under threat of invasion, and in need of support.
+
+If China's claim to Taiwan is valid, then Taiwan also has an equally valid claim on China.
+
+If China's claim to Taiwan is valid, then so will it's claim to any other country.
+
+If Taiwan is a part of China, why doesn't China put the Chinese flag on all major Taiwanese government buildings?
+
+Oh, I forgot, it is because they have absolutely no control over Taiwan. Just like the have absolutely no control over any other country.
+
+China, if you want to claim that Taiwan is a part of you, just invade them already. Or just stop this joke.
+
+Someone once told me:
+
+____
+Taiwan should not be considered a country by China, because then it would not join back to China when China becomes a democracy, and would be used by the USA to do evil things like they did in the Middle East
+____
+
+Reply: China claiming that Taiwan is a part of them only drives Taiwan closer to the West! Who wants to be part of a dictatorship unless you have been brainwashed by one?
+
+Some interesting links:
+
+* https://en.wikipedia.org/wiki/One-China_policy every country has private relations with Taiwan through some trade organizations, they just don't call them embassies
+* http://travel.stackexchange.com/questions/62447/how-can-a-citizen-of-mainland-china-visit-taiwan/62466#comment178495_62466 hi, I want a "not VISA" to Taiwan. Thanks.
+* https://youtu.be/6aZkM_ZLvjE?t=50 (zh) "【這就是科學｜柯文哲】EP3／從癌症治療看政治！除惡務盡→除惡「勿」盡？「與敵共存」才是生存之道！", 柯文哲, 2019-06-26. Ko Wen-je , the mayor of Taipei 台北 and a professor in medicine, applies the concept of isolation and mutation in evolution to Taiwan and China
+
+[[xinjiang]]
+==== Xinjiang 新疆
+
+In 2017 - 2018, details of internment camps are emerging.
+
+It is still hard to get hard evidence, much like every other mass human rights violation, here go the best ones:
+
+* 2019-03 https://shahit.biz/eng/ database of Xinjiang victims, with precise names, location, date of birth and ID card number of victims and testimonies
+* 2018-05 generic report https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/
+* 2018-05 mapping interment camps with satelite imaging:
+** https://www.albawaba.com/news/mapping-china%E2%80%99s-internment-camps-its-ethnic-minorities-1136100
+** https://medium.com/@shawnwzhang/list-of-re-education-camps-in-xinjiang-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%88%97%E8%A1%A8-99720372419c List of Re-education Camps in Xinjiang 新疆再教育集中营列表 Shawn Zhang https://www.reddit.com/r/China/comments/8mbhad/satellite_imagery_of_xinjiang_reeducation_camps/
+* 2018-05 Omir Bekali's account of Xinjiang education camps:
+** https://apnews.com/6e151296fb194f85ba69a8babd972e4b
+** https://www.washingtonpost.com/world/asia_pacific/former-inmates-of-chinas-muslim-re-education-camps-tell-of-brainwashing-torture/2018/05/16/32b330e8-5850-11e8-8b92-45fdd7aaef3c_story.html?utm_term=.df8ea170b18f
+** http://uk.businessinsider.com/what-is-life-like-in-xinjiang-reeducation-camps-china-2018-5
+
+=== What is your reply strategy?
+
+People get kind of passionate sometimes about politics. And some of them might also be just malicious wumaos, although it is generally not possible to distinguish between them.
+
+In order to not waste too much time on those, I use the following strategy:
+
+If the original thread post is not very interesting, I try to parse it quickly and reply once, always <<better-to-do,linking to the FAQ>>, and then unfollow.
+
+I then do my best to never read the inevitable reply again. An interesting reply never follows from a non-interesting original post.
+
+If the user keeps generating notifications, warning + temporary block.
+
+If the post is outright useless and offensive, direct user block, with a link to the link:CONTRIBUTING.md[].
+
+I have also been pointed out to the following reply strategy by  C.K. Hung which might be of interest: https://ckhung0.blogspot.com/2017/07/50-cents-party.html
+
+=== Falun Gong
+
+==== Do you support FLG, or just use it because it is a censored?
+
+I don't support FLG specifically, only freedom of religion.
+
+I use it in my usernames simply because it is the most banned and censored one in China today.
+
+I believe that individuals should only be put in jail for what they do, not for what they believe.
+
+I consider FLG <<flg-religion,a religion like any other>>, and I am against its ban, as I am for all other religions.
+
+Also I believe that freedom of speech and democracy imply that FLG and other religions will exist. If you want freedom, you have to accept other people's choices.
+
+Otherwise, <<democracy-is-a-religion,democracy and communism can also be considered as religions>>, and banned.
+
+See also: <<flg-verifiable>>.
+
+[[flg-bias]]
+==== Do you support FLG just because your wife and mother-in-law do it?
+
+Not consciously, I think I would likely support them even if I didn't have family ties to FLG.
+
+Likely I wouldn't have started this campaign if I didn't know them of course.
+
+But of course, this is impossible to answer objectively.
+
+But don't you think that **70 Million** people (6% of the total population in 2000!) getting completely squashed by the Party illustrates extremely well the dangers of the dictatorship?
+
+With that in mind, I try my best to give FLG only the right level of exposure I think it deserves relative to other events, according to these guidelines: <<keyword-choice>>
+
+If more important events of mass human rights violation happen, especially affecting in the order of tens of million people, I will probably rank higher than Falun Gong.
+
+[[flg-daily]]
+===== How is it like to live with Falun Gong believers?
+
+This will obviously vary from believer to believer, but here my experience.
+
+Like any other religion that is taken seriously, they spend several hours per week doing their standard religious activities: <<flg-religion>>.
+
+I have never seen them, or anyone we know from FLG say or do something that I consider morally incorrect because of FLG.
+
+This does not prevent my wife from working normally.
+
+My mother-in-law, who is retired, dedicates all her time to Falun Gong when she is not taking care of the house.
+
+My mother is also religious (link:https://en.wikipedia.org/wiki/Protestantism[Protestant]), and I get a very similar feeling about both groups.
+
+Like other religions, Falun Gong gives them meaning in life, and I admire that they pursue their belief energetically.
+
+I much prefer that my mother-in-law does Falun Gong, which is a noble meaningful goal, rather than watch stupid crap on television.
+
+Also, although I am <<<<do-you-believe-in-or-practice-falun-gong,agnostic>>, I also live in a similar way.
+
+My religion is that of science and technology, and I pursue it fervently by trying to learn and teach it and spend several hours a week doing that, even when it does not give me money immediately.
+
+If I pursue my meaning, why should I prevent anyone from pursuing theirs?
+
+Previously, my wife and mother-in-law would sometimes try to persuade me to learn FLG, which was annoying.
+
+But every time I told them very clearly that I know where to download the books if I want to, and that I may never want to read them, and that my wife must either accept this fact of leave me.
+
+And they have accepted that: they think I'm a good person, and they can accept that you can also be a good person even without doing FLG.
+
+I do feel Falun Gong makes my mother-in-law more reluctant to use or actively search for <<flg-medication,medication or treatment>>. But I think it is also linked to the fact that she didn't have a very good education or a good health system around. However, if we give her something, she will take it. My wife does not have any resistance to medication.
+
+One thing that does worry me is that my mother in law sleeps too little every night, doing one of the Falun Gong meditations late in the evening, and then waking up very early to a long series of reading and exercise sessions.
+
+==== In the Tweet you say "correctional facility", but reeducation through labour has been abolished
+
+My bad https://twitter.com/cirosantilli/status/579270450984984576[here], the precise term is "jail". I'm _not_ talking about: https://en.wikipedia.org/wiki/Re-education_through_labor Unfortunately I can't edit a Tweet.
+
+[[flg-changed]]
+==== Falun Gong is completely different in the West than it was in China
+
+I believe that it has changed.
+
+But isn't that the case of every cultural religious movement that migrates to a completely new culture?
+
+Main points which may have changed:
+
+* It has become more organized.
++
+But why shouldn't they organize to defend themselves now that they have the chance without being put into prison?
++
+The CCP is highly organized and has way more resources.
+* Less emphasis is given to the religious / mystical aspect, and more to the corporal exercises, and health aspect.
++
+This may be because people in the "West" are:
++
+** are "scientific-educated" atheists who wouldn't go for a "religion"
+** already have other religions, which would view FLG as a taboo
+
+Also maybe only the richest and most educated believers managed to escape China, and thus the movement carried that bias outside China.
+
+If you know more ways in which it may have changed, let me know.
+
+But once again, we can know nothing for sure about the past in China because of censorship.
+
+Even if you saw something yourself, how can you be sure that it is representative?
+
+And if it has changed, now that it has changed, maybe China should unban it?
+
+==== FLG has been funded by the US government at least once, therefore it is evil
+
+1.5M USD in 2010 for a FLG controlled internet freedom group http://news.bbc.co.uk/1/hi/world/americas/8678760.stm
+
+But well, if you are going to do something anyways, and someone offers you money, why wouldn't you take it?
+
+Taking the money does of course give a "bad impression" that someone is trying to buy influence, but does it in itself imply that you are doing something bad?
+
+But do you really think that the US government paid that to buy influence in FLG? What would they force upon that FLG group that they didn't already want to do? Isn't it more likely that the US government wanted them to continue doing exactly what they were doing?
+
+Every government funds groups it supports, it is an all out war I suppose. Compare that to the propaganda funds of the CCP.
+
+What about the funding of political campaigns, which vastly outnumbers 1.5M USD every year?
+
+==== FLG is illegal in China, we must follow the law
+
+This might be a bad law that should be changed.
+
+It was perfectly legal for Nazis to kill Jews. Does it make that right?
+
+==== FLG is fake
+
+The same can be argued about any other religion or political belief of type: it is better if we organize society in this or that way.
+
+How can you disprove their belief, when as in any other religion, every affirmation made hinges on "miracles only happen around when true believers are around" or "only true believers can perceive evidence in their hearts / minds directly". He died of cancer? Not a true believer.
+
+Conversely, do you understand the full sequence of experiments that imply quantum field theory? Have you seen videos of those experiments? Have you attended live demonstrations? Do you understand the construction of the experimentation apparatus? Yet, why do you believe it?
+
+More importantly: what do you propose that should be done about it? Should we kill followers? Or is jail enough?
+
+Also do let me know when you have achieved irrefutable proof that democracy / freedom of speech are the optimal ways to organize the government: <<democracy-is-a-religion>>.
+
+See also: <<flg-religion>>
+
+[[flg-verifiable]]
+===== FLG never makes any predictions that can be reasonably verified by non-believers
+
+Exactly, just like any other <<flg-religion>>, this is why I'm <<do-you-believe-in-or-practice-falun-gong,agnostic>>.
+
+The closest claims to observable I've heard are:
+
+* when pictures are taken in sacred events, notably Shen Yun, sometimes you can see magic Falun energy wheels in the pictures
+* in the homes of some followers, small magic good plants-like fungi-like things have grown
+* the sacred books of some believers had a closed lotus flower when they were bought, and after several years, the flower opened
+
+but I suspect they are not even <<flg-canon,canon>>, just believer oral culture.
+
+Of course, like every other religion, reality happens to be is constructed in a way that prevents non-believers to verify anything with their eyes in a reproducible way.
+
+===== FLG is a very new religion and therefore fake
+
+The Romans called Christianism the "Cult of Jesus".
+
+If I tell a lie today, will it become true in a thousand years? Or a truth today become a lie?
+
+Try sending an email to <<flg-lhz,LHZ>> asking him to prove his powers to you :-)
+
+[[against-censorship-and-flg]]
+==== Many people both are against censorship and FLG
+
+I know that, and that supporting FLG is "bad" for my public image with most Chinese, including those that are against censorship.
+
+But without censorship, there will be democracy, and with democracy FLG followers will have voting rights, and FLG will become legal.
+
+I think the situation is very similar to Scientology in the USA today: most people dislike it, but believe that you can believe whatever you want.
+
+Democracy and Communism <<democracy-is-a-religion,can also be considered as religions and persecuted>>.
+
+Isn't it convenient when a dictatorship gets rid of those weirdos for you? But not so much when suddenly you or your family is the weirdo...
+
+If you are not ready to accept the beliefs of others, dictatorship is the only choice for you.
+
+See also: <<flg-bias>>
+
+[[democracy-is-a-religion]]
+===== Why do you say that democracy is a religion just like FLG?
+
+Because it also specifies irrational and fundamental aspects of how one should live, notably voting and freedom of speech.
+
+Like the Cult of CCP has one fundamental belief: the Party is always right.
+
+[[flg-stability]]
+===== Falung Gong had to be banned because it was a threat to the stability of the country
+
+Then they link to the Taping Rebellion:
+
+* https://en.wikipedia.org/wiki/Taiping_Rebellion
+* https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom
+
+Of course FLG it was a threat to the stability of the country.
+
+It is, as I have said, a highly organized political power: <<flg-political>>.
+
+However, <<democracy-is-a-religion,democracy>> is a threat to the stability country in the exact same way:
+
+* https://en.wikipedia.org/wiki/French_Revolution
+* https://en.wikipedia.org/wiki/American_Revolution
+
+Anything that goes against a dictatorship is a threat to the stability of the country.
+
+Now read: <<stability>>
+
+==== Many people say they do FLG only to get VISAs to the USA
+
+Heard this a few times, and I believe it has happened.
+
+But I don't see how this is relevant at all to this discussion:
+
+* if they are not really FLG believers, they should be prosecuted, but this says nothing about the real FLG believers,
+* if they are, then why wouldn't they seek a VISA, since they are in constant threat of going to jail or worse in China, and the USA law gives them that right?
+
+Sample news:
+
+* https://www.npr.org/sections/money/2018/09/28/652218318/thousands-could-be-deported-as-government-targets-asylum-mills-clients
+
+[[flg-witness]]
+==== I have personally seen people do bad things because of Falun Gong
+
+Either direct suicide or <<flg-medication,dying because of not taking medication>>.
+
+First, I'm not saying I don't believe you, and I'm sorry about what happened.
+
+But your testimony is worthless unless you give the following:
+
+* clear unique personal identification
++
+This is because the CCP has thousands of wumaos who could make fake reports.
++
+There are basically two ways to do that:
++
+.  your testimony is done in video form on YouTube clearly showing your face as you make it
+.  links between a notable social media presence that is hard to achieve, e.g. Twitter with many followers, Stack overflow with a lot of rep, and the account
++
+Either of those must contain / link to information that uniquely identifies you. Generally, full name, city and date of birth is enough.
+* a precise testimony that states exactly what you saw happen with your own eyes, or heard from people that are very close to you.
++
+The testimony must include:
++
+--
+** when the events happened
+** where they happened, in which city at the very least
+** the full names of who did what
+--
++
+This is to:
++
+** make it easier to verify the truth of the event
+** uniquely identify the event so we don't count a single event multiple times
+
+If you do provide all of the above, I add your report to a list of reports that I will maintain. This list does not exist yet because there were no valid reports yet.
+
+Next consider this:
+
+* are you sure that Falun Gong made the person do the bad thing, and that the person wouldn't have done it anyways?
++
+Did someone from Falun Gong told the person to do it?
++
+I bet that if you look into patients of psychiatrists, you will find more suicides than average. So should we ban psychiatry?
+* are you sure that the order came from <<flg-lhz,LHZ>>, and that it was not just some disgruntled local leader using Falun Gong for his personal madness and doing things he did not approve?
++
+Branch Davidians were inspired by Christianism. So should we ban Christianity? What about the majority of Christians who have never done anything bad?
+* only statistics has any meaning, and it would require a very large number of reports to make up statistics, so you will likely be wasting your time. I will do my part and maintain a list however.
+* if ask for FLG believers to compile a list of horrors they have suffered, which they have already been doing since the start of the persecution, I bet that their list will be much longer than yours, because they are so <<flg-organized,well organized>>
+
+==== FLG does not have proof of their persecution claims
+
+How much proof do you think they would be able to get when there is no freedom of press?
+
+Do you think that forbidding a 70 million person religion could have gone smoothly?
+
+Do you think the thousands of personal of accounts of human rights violations that exist are all fake, and don't indicate that many, many more have taken place but fallen under censorship?
+
+Conversely, there is no reliable proof that FLG is bad as claimed by CCP that has been verified by international media.
+
+==== Someone from movement X did something bad, therefore the movement should be banned
+
+By this logic, everyone should go to jail. The law should only punish individuals.
+
+The communist party, which has had continuous power since 1949, killed millions during the cultural revolution. Surely they must be banned, no?
+
+But the CCP has changed so much since those days, I hear you say.
+
+I agree. And <<flg-changed,so has FLG>>.
+
+===== Movement X tells people to do something bad, therefore the movement should be banned
+
+E.g. kill.
+
+Yes, convincing someone to do something bad is as bad as doing it yourself of course, and must be forbidden.
+
+Now proceed to prove that FLG made and will continue making people do bad things, going through:
+
+* <<flg-witness>>
+* <<flg-changed>>
+
+[[flg-political]]
+==== People from movement X are only in it for political power
+
+For every desire of the masses, there will be amoral representatives that will step to use that power.
+
+Still, those representatives cannot gain power if there is no backing desire from the society.
+
+The only advantage of <<richer,democracy>>, is that those representatives have to pretend harder to do things for that group to retain their power.
+
+==== Western media has exaggerated reports on FLG for propaganda reasons
+
+Possibly true, but which reports are you talking about specifically?
+
+All that I care about is:
+
+* it is censored today
+* if you do it you go to jail
+* there were tens of millions of followers at the time of the ban
+
+which I think are undeniable.
+
+The only question that matters is: should it be banned or not?
+
+==== Do you believe in the allegations of organ harvesting made by Falun Gong believers?
+
+In short: I believe that it has happened to many people.
+
+Long version:
+
+It is obviously very hard to prove and quantify it definitely, much like it was hard to prove the Holocaust: bodies were cremated, and bribes were paid.
+
+Even if we had a video showing the whole process, showing the whole money flow from donor to prison guard, it would still be hard to quantify it, so I do have some room for doubt in this opinion.
+
+But consider the following, which is based on what I heard.
+
+Even Chinese officials have admitted that in the past, if the body of the executed person is not claimed by family, then the organs can be extracted even without the consent of the prisoner:
+
+* https://www.theguardian.com/world/2017/feb/07/china-still-using-executed-prisoners-organs-transplants-vatican
+* https://www.washingtonpost.com/world/asia_pacific/in-the-face-of-criticism-china-has-been-cleaning-up-its-organ-transplant-industry/2017/09/14/d689444e-e1a2-11e6-a419-eefe8eff0835_story.html
+
+Perhaps now that they claim that there is a large voluntary organ donor database, then this has stopped or been reduced, but let's focus on that period when the extractions were widely done.
+
+From this, even though China does not publish execution statistics, we can imagine that a large part of the organs come from prisoners sentenced to death.
+
+Then, consider that a 70 MILLION person religion was banned, leading to a HUGE influx of prisoners from that religion.
+
+FLG followers are just de-facto criminals like any other, and so extracting their organs is also de-facto legal.
+
+Also, people from that religion don't drink alcohol, smoke or take drugs, and their organs are of good quality.
+
+Furthermore, FLG prisoners continue to not bow down to the government even in prison, e.g. by doing their <<flg-religion,Falun Gong meditation>>, which makes them clearly identifiable and dangerous to the system.
+
+Finally, add to that mix the huge level of corruption found in dictatorships.
+
+Don't you think, then, that it is extremely likely that it has happened many times that such people have been selected to be executed earlier than others on average, due to the monetary value of their organs?
+
+Bibliography:
+
+* The Slaughter: Mass Killings, Organ Harvesting, and China's Secret Solution to Its Dissident Problem, by Ehtan Gutmann, 2014
+** <https://www.amazon.com/Slaughter-Killings-Harvesting-Solution-Dissident/dp/161614940X>
+** <https://en.wikipedia.org/wiki/Ethan_Gutmann#The_Slaughter:_Mass_Killings,_Organ_Harvesting,_and_China's_Secret_Solution_to_Its_Dissident_Problem>
+
+===== 2018 China Tribunal
+
+2018 https://chinatribunal.com/
+
+This is a mock tribunal, without any power of law, and was of course initially lobbied / organized brought up by FLG: https://endtransplantabuse.org/
+
+However, none of the lawyers / jury members are FLG followers I believe, and I do believe that they are trying to honestly decide if there is enough evidence or not for organ harvesting in China.
+
+They also have non-FLG witnesses.
+
+Wether you believe in their partiality or not, I highly recommend watching some of what the witnesses, which I find very convincing and informative:
+
+* https://youtu.be/oW3IaaXWE8s?t=7225 Swedish man who spent several years in prison in China
+
+A notable precursor to mock tribunals is the link:https://en.wikipedia.org/wiki/Russell_Tribunal[Russel Tribunal].
+
+===== Falun Gong is not important to be worth discussing
+
+The main reason I emphasise FLG it that is shows how the CCP can mercilessly crush a 70M strong group (according to CCPs own statistics) out of a population of 1.3B in 2000, i.e. 5% of the population.
+
+If that is correct, I'm curious to understand what you consider an important movement? :-)
+
+Anything much larger would take down the government and change China's history forever.
+
+OK, maybe the fact that 69M of those were likely old ladies didn't help much either. Tip to next prophet: make something that appeals to aspiring military officers.
+
+And of course: <<flg-bias>>
+
+==== Falun Gong overviews
+
+Some possibly neutral overviews.
+
+For:
+
+* http://www.icsahome.com/articles/the-prc-and-falun-gong-langone
+
+Against:
+
+* http://www.culteducation.com/group/1254-falun-gong.html
+
+Interesting:
+
+* http://www.orange-papers.org/orange-cult_q0.html
+
+==== Things I personally dislike about FLG
+
+But also as explaining why I don't think it justifies the ban.
+
+This section also gives me more credibility as a balanced critic >:-)
+
+[[flg-religion]]
+===== FLG downplays the fact that it is a religion
+
+If asked if they follow a religion, I think most FLG practitioners will say no. E.g. they call themselves "practitioners" instead of believers.
+
+But I strongly believe that all most people in the West would classify FLG as a religion if they are told that for FLG:
+
+* absolute truth comes from an enlightened <<flg-lhz,prophet>>, who is perfect and has super human abilities
+* weekly meetings where they read from a sacred book, either written by the prophet, or transcribed from his presentations to disciples, including the disciples questions, much like traditional Chinese texts like link:https://en.wikipedia.org/wiki/Analects[The Analects of Confucius]
+* prescribed daily meditation exercise hours, somewhat like Muslim Salah prayers: https://en.wikipedia.org/wiki/Fazhengnian
+* higher intelligent beings
+* other dimensions
+* aliens that looks like humans are amongst us, they gave us part of our modern technology
+* meetings in which people tell their religious testimonies: https://en.wikipedia.org/wiki/Testimony#Religion
+* an impending link:https://en.wikipedia.org/wiki/Last_Judgment[final judgement]-like event, which will happen "very soon" (<<flg-verifiable,unspecified date>>), and in which the just will be rewarded
++
+I predict that when <<flg-lhz>> dies, the claim will be that he went to another dimension so save us all, therefore putting this final judgement on hold, a bit like Jesus.
+* link:https://en.wikipedia.org/wiki/Open-air_preaching[street preaching] with stands and leaflets like link:https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses[Jehovah's Witnesses]
+
+Or a cult, which is nothing but a new / small religion with negative connotation, and thus meaningless.
+
+But consider this: how to classify what a religion is?
+
+Some would answer: science is what everyone can perceive with their own senses.
+
+But FLG followers claim to feel FLG energies when doing the exercises, and a few of them have the power of seeing the other dimensions.
+
+On the other hand, how many of your friends have experienced the laws of quantum field theory or general relativity in a very direct way?
+
+And aren't pro-democracy believers also taking actions based solely on a shared belief, possibly organized by a pro-democracy leader?
+
+From a purely strategic point of view, the "religion" denomination would be:
+
+* good to FLG because the concept of freedom of religion carries considerable weight in the West
+* bad for FLG because people who already have a religion would be less likely to try it out and start believing
+
+See also: <<flg-daily>>.
+
+[[flg-organized]]
+===== FLG downplays the fact that it is highly organized
+
+Many FLG practitioners claim that they are not at all organized, or that they have no political interest, and I truly believe that they mean it.
+
+But it is obvious from the size of the FLG related media, namely:
+
+* link:https://en.wikipedia.org/wiki/NDTV[NDTV television network]
+* link:https://en.wikipedia.org/wiki/Epoch_Times[Epoch Times newspaper]
+* link:https://en.wikipedia.org/wiki/Shen_Yun_Performing_Arts[Shen Yun Performing Arts]
+
+that in practice they do have are a highly organized hierarchical structure, and very likely with <<flg-lhz,LHZ>> at the very top, e.g.:
+
+* Shen Yun's 2018 libretto says that their Artistic Director and founder is "D.F." (likely an abbreviation for Da Fa, which is an abbreviation for Falun Gong Dafa, which is a full name of Falun Gong), with a picture of LHZ on top. It also amusingly says that D.F. is a "Distinguished Professor of Music and Dance at Fei Tian College in New York", which is likely where many of Shen Yun's dancers are trained, and therefore controlled by himself to a large extent
+
+Furthermore, Falun Gong practitioners have directly lobbied for foreign governments to take action against human rights abuses in China, e.g.:
+
+* http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+MOTION+P7-RC-2013-0562+0+DOC+XML+V0//EN
+* https://www.eff.org/press/releases/eff-court-cisco-must-be-held-accountable-aiding-chinas-human-rights-abuses
+
+Like any other religion, they have all the right to take those actions, and it is definitely in their best interest, and perhaps in the best interest of the whole world, that they do so.
+
+The only thing that annoys me is their lack of self perception on this matter: the large majority of Western people would definitely classify them as an organized political force after having observed their activities. When they say otherwise, they are hurting their own credibility.
+
+====== FLG media is not transparent about its affiliation
+
+Agreed, and it is a point that hurts more than helps their cause.
+
+But the media is not legally obliged to state their affiliation.
+
+And if that were the case, then we should force _all_ newspapers start taking pools of how many employees follow which religion and support which political party, and then put that in their print.
+
+===== FLG dislikes several other groups like homosexuals and some other religions
+
+Like most old religions.
+
+Democracy dislikes dictators.
+
+You and I dislike certain personality traits without any logical reason.
+
+What matters is that we treat everyone with respect and without bias at work, even if we don't like them.
+
+But the law can't force you to like everyone.
+
+If one specific FLG member breaks a law by discriminating someone, they should be punished just like anyone else.
+
+[[flg-medication]]
+===== FLG believers are less likely to take necessary medication
+
+Due to their beliefs in the healing power of FLG, which seems to have certain level of support on <<flg-canon,canonical texts>> TODO precise quotes.
+
+This is a point that makes me worry, and I do believe that it is true for some believers, that but consider:
+
+* what matters are statistics. Maybe FLG people live longer than non FLG in average. But we will never have statistics because of censorship: http://skeptics.stackexchange.com/questions/27529/have-many-falun-gong-practitioners-forgone-medical-treatment-and-died-of-treatab
+* maybe people should be link:https://en.wikipedia.org/wiki/Suicide_legislation[allowed to choose how they want to die], not to take medication if they don't want to
+* maybe the number of people killed during persecution vastly outnumbers those who died because they would not take medication
+* several religions, including Christianism have miraculous cure claims. My impression is that claims were mostly notable in the old times apparently, likely because people noticed that Christians were still dying of all kinds of diseases like everyone else, no matter how devout!
+* maybe the main reason why communists banned FLG is the political threat it posed, but that a ban was unjustified given the situation. Christian crosses are being taken down as of 2016, have they stopped taking their medications as well?
+* maybe many of those people would also have died soon even if they had taken medication
+* maybe not all Falun Gong believers thought that it was wise to stop taking medication. But their religion was banned anyways. Who can agree and follow all the innumerable prescriptions of any religious or legal system?
+* all the following also reduce people's lifespan:
++
+--
+** riding motorcycles vs cars / buses
+** smoking
+** moving to a poor country to do charity there
+** eating fast food
+--
++
+Forbidding them also has huge humanitarian costs (more expensive vehicles, creation of a black market, ...). So why not forbid them as well?
+
+[[flg-lhz]]
+===== FLG is dangerous because LHZ has too much power over followers
+
+LHZ (Li Hongzhi) is the creator of FLG: link:https://en.wikipedia.org/wiki/Li_Hongzhi[], or as I prefer to call it, its <<flg-religion,prophet>>.
+
+I agree that there is danger in every religion, and specially new religions.
+
+However the same point can be made about political parties and in particular the CCP and its chairman.
+
+Couldn't a charismatic leader chairman gain more and more power (like Xi seems to be doing), and eventually start a war and kill millions? Or just kill some minority which is not happy about the situation.
+
+Similarly, any charismatic leader of a pro democracy movement could become the leader of a terrorist organization.
+
+If you ever want democracy, you will have to learn to accept the beliefs of others, and only punish them when they actually break a law.
+
+Finally, LHZ was born in 1951, so he will die in 20 years, unless FLG is true and a miracle happens, and then this argument will become invalid.
+
+From what I hear, LHZ has always maintained that he is the only source of truth on FLG, and therefore, so his death will very likely remove any danger once and for all.
+
+Furthermore, it also seems to me that FLG is clearly anti-violence and self-harm, so I wonder how many would follow a contradictory order such as killing or suicide?
+
+It is also interesting to look into the https://en.wikipedia.org/wiki/Jonestown case. When the suicide order came, most people wanted out! Without physically controlling the followers, I don't think you can make them do much.
+
+===== Some FLG people make phone telemarketing
+
+I've seen that happen, they made phone calls to people in China to explain why FLG is good, and I disapprove of it.
+
+Visual ads on the street on Internet I can stand, but not any kind of advertising that generates notifications on my feeds.
+
+=== How do different websites view your profile?
+
+==== Zhihu ban
+
+I was banned from Zhihu on 2018-06-25 for "politically sensitive" content.
+
+I have however never posted anything politically sensitive on Zhihu, unless my name and profile picture have reached that distinction, and therefore the ban is clearly an unfair per-person ban.
+
+But of course, all is fair in love and war, and politics.
+
+Posting any sensitive content on Chinese websites is a waste of time, since it only means that they will be removed and you will waste time creating a new account, I will never do that.
+
+The only significant content I ever posted on Zhihu is the answer to: https://www.zhihu.com/question/46957710/answer/122827944 which is purely technical, and trivial replies on threads that other people have started about me. Have those people been blocked like me?
+
+My posts are still up and it does not appear to be possible for people to see that I have been banned, but whenever I try to take any action on the website a popup appears saying:
+
+____
+由于严重违反 知乎社区管理规定 ，该帐号已被永久禁言
+____
+
+This includes liking, commenting, answering, asking or trying to update my profile to say that I have been blocked.
+
+This message also shows on my public page for everyone to see: https://www.zhihu.com/people/cirosantilli/activities but they use some JavaScript scheme complicated enough that archive.is cannot capture it.
+
+I still get notifications however, but I am unable to reply to them, specially given that all Chinese accounts, unlike mine, have no personal identifiable information due to the understandable fear Chinese citizens have of their own government (even though such accounts https://techcrunch.com/2017/08/27/china-doubles-down-on-real-name-registration-laws-forbidding-anonymous-online-posts/[might be illegal in theory to my understanding]).
+
+The only action that I can take now is to report abusive comments people make to me.
+
+Obviously, the only effect of such ban is that I will create an anonymous account under Tor with a second cell phone if I wish to contribute in the future, and China will have less information about my political interests than before.
+
+The private messages the website sends while banning you are:
+
+____
+知乎管理员 ：您好，根据用户举报，您的帐号发布了「政治敏感」内容，帐号已根据知乎社区规范被永久禁言。处理详情可查看社区服务中心。具体规范请查看知乎社区管理规定。 6月25日 16:37 回复 | 删除
+
+知乎管理员 ：您好，根据用户举报，您的部分个人信息由于不符合知乎用户信息管理规范已被重置。用户名可以在设置页面中修改，修改后会自动进入审核等待通过；其他个人信息可以在个人主页中编辑。感谢您对知乎社区的理解和支持。 6月25日 16:37 回复 | 删除
+____
+
+Those messages contain links to: https://www.zhihu.com/terms2 | http://archive.is/wdXSz and https://www.zhihu.com/question/19551824 | http://archive.is/BrgV2
+
+The ban came soon after I posted a link to my GitHub repo as a comment at: https://techcrunch.com/2018/06/21/ice-employee-list-github-linkedin/ maybe they are related.
+
+===== Who reported me on Zhihu
+
+At the same time the ban happened I received a public comment from user ``Eureka'' https://www.zhihu.com/people/crb912/activities | http://archive.is/1F3t6 on this thread: https://www.zhihu.com/question/46957710 | http://archive.is/PVOLd saying:
+
+____
+你滥用了github， 也滥用了Stackover。这个一个纯粹计算机、编程和知识分享的地方，请不要带入政治性的色彩。请不要这么做， 维护社区的非政治性、中立和技术性纯粹，是每个热爱cs的人应尽的义务。
+____
+
+I am unable to get an URL that shows the comment on archive.is, so I have no proof of this claim. If you trust me, then here is a screenshot: https://imgur.com/a/YCiEEax
+
+Since I expect the ban lists to be private, I find it extremely likely that this was the user who reported me, unless both were simultaneously triggered by a third event which I have not seen. So correct me if I'm wrong here.
+
+Users with the same user id `crb912`, related ``Eureka'' username or same profile picture, can be found at:
+
+* https://www.weibo.com/crb912 (unable to archive)
+* https://github.com/crb912 | http://archive.is/heGfd which suggests a possible real name
+
+By Googling the email found on the GitHub repos, we find: http://www.360doc.com/content/15/0809/11/25724933_490492490.shtml | http://archive.is/2UnGL which might, at last, contain a photo of my nemesis.
+
+My public message to the reporter whomever he may be:
+
+____
+While you have also raised issues that were raised a thousand times before, and clearly answered in the FAQ, at least you were able to take some actual action leading to an actual ban, and I respect you for that.
+
+I hope that one day you will redirect that cunning and initiative towards taking down the root cause of the problem, which are the Chinese communist Party and their Firewall themselves.
+____
+
+==== Quora
+
+https://www.quora.com/profile/Ciro-Santilli
+
+* 2016 blocked Chinese keywords on both my username and credentials. Justification: non-English.
+* 2017 created on in English: Cook Tiananmen Square Noodle Shop.
++
+Added my Noodle shop to maps: https://www.google.co.uk/maps/place/Tiananmen+Square+Noodle+Shop/@60.6132538,15.6687509,15z/data=!4m5!3m4!1s0x0:0x94603408e3c63fb3!8m2!3d60.6132538!4d15.6687509
++
+Leaches that picked it up: http://kvalster.se/Falu/Uthyres/Lagenheter/Gammelvagen_49_1417351
+
+[[news]]
+== News 新闻
+
+Trying to keep only "neutral" sources here, let me know if you spot something too biased: <<biased-media>>.
+
+How I find them: <<anti-commie-info>>.
+
+=== News 2019
+
+* 2019-07-04 https://www.bbc.co.uk/news/world-asia-china-48825090 "China Muslims: Xinjiang schools used to separate children from families"
+* 2019-07-02 https://www.theguardian.com/world/2019/jul/02/chinese-border-guards-surveillance-app-tourists-phones "Chinese border guards put secret surveillance app on tourists' phones"
+* 2019-06-18 https://www.youtube.com/watch?v=WmId2ZP3h0c "Inside China's 'thought transformation' camps - BBC News" China gives BBC "access" to a chosen show camp where everyone claims is happy and willing to stay. Amazing dark-comedy like stuff.
+* 2019-06 2019 Hong Kong anti-extradition bill protests
+** https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests
+** https://www.youtube.com/watch?v=dEvalUQuClE "Last Hong Kong governor Chris Patten: Gov't defence of extradition bill 'absolute nonsense'", Hong Kong Free Press
+* 2019-05-09 https://www.youtube.com/watch?v=t2hBtXdaYsQ&list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY&index=2&t=14s Cynthia Liu, daughter of Liu Changming pleas freedom on YouTube, commented upload by CBS, TODO can't find original video on YouTube, maybe they sent straight to CBS?
+* 2019-05-07 https://www.theguardian.com/world/2019/may/07/revealed-new-evidence-of-chinas-mission-to-raze-the-mosques-of-xinjiang
+* 2019-05-07 https://www.youtube.com/watch?v=ULaJVWOr4ko CNN does a few Xinjiang interviews and sends reporter to visit some of the concentration camps
+* 2019-04-28 https://www.bbc.co.uk/news/world-asia-48084019 Hong Kong: Thousands protest against China extradition law
+* 2019-04 996 https://github.com/996icu/996.ICU
+** https://www.reddit.com/r/China/comments/b927sk/tencent_xiaomi_and_others_block_github_page/
+** https://www.reddit.com/r/cscareerquestions/comments/b8t8cc/overworked_chinese_developers_gather_on_github_to/
+** 180k stars in a week!!!!
+* 2019-02-24 http://fortune.com/2019/02/21/thermo-fisher-xinjiang-china-uighurs/
+** https://www.reddit.com/r/China/comments/auqkdl/biotech_giant_thermo_fisher_stops_selling_dna/
+* 2019-02-17 https://www.scmp.com/news/china/politics/article/2186547/china-data-leak-exposes-vast-hi-tech-surveillance-operation "China data leak exposes vast hi-tech surveillance operation in Xinjiang", leak by SenseNets Technology.
+* 2019-01 https://www.apnews.com/40f7cf4c0c6e43f18121af93f1e418f7 Microsoft Bing https://www.bing.com/ search engine blocked in China
+* 2019-01 https://www.nytimes.com/2019/01/02/business/china-internet-censor.html interview with Beyondsoft, a company that offers censoring services
+
+=== News 2018
+
+* 2018-12 https://www.youtube.com/watch?v=zzWApdCNdik 100 Christians detained in China crackdown
+* 2018-12 https://www.youtube.com/watch?time_continue=8&v=dsd1NkCKaNg In full: 'I begged them to kill me' - ex-Xinjiang detainee Mihrigul Tursun gives testimony in the US
+* 2018-11 https://www.bbc.co.uk/news/world-asia-45812419 Xinjiang legalises 're-education' camps
+* 2018-11 https://www.businessinsider.com/liu-changming-china-holds-officials-family-hostage-to-force-return-2018-11 China is holding a renegade official's family hostage to pressure him to come back. Western media, for the love of God, include names in Chinese news titles: Liu Changming, wife Sandra Han, children Victor and Cynthia Liu.
+* 2018-08 https://theintercept.com/2018/08/08/google-censorship-china-blacklist/
+* 2018-08 https://www.reuters.com/article/us-china-rights-un/u-n-says-it-has-credible-reports-that-china-holds-million-uighurs-in-secret-camps-idUSKBN1KV1SU
+* 2018-07 https://www.youtube.com/watch?v=Eak3WRtcdko Sairagul Sawytbai testifies to the existence of Chinese concentration camps in Xinjiang
+* 2018-06 https://arstechnica.com/tech-policy/2018/06/china-bans-online-mention-of-john-oliver-after-he-mocks-chinas-president/ https://www.dailymotion.com/video/x6m5b3o
+* 2018-05 https://www.whatsonweibo.com/public-shaming-of-drug-users-in-guangdong-drug-related-crimes-in-family-painted-on-houses/
+* 2018-04 https://uk.reuters.com/article/uk-china-lawmaking/china-makes-defaming-revolutionary-heroes-punishable-by-law-idUKKBN1HY16C
+* 2018-04 https://chinadigitaltimes.net/2018/04/translation-open-letter-on-peking-university-metoo-case/ https://github.com/sikaozhe1997/Xin-Yue
+* 2018-04 https://www.whatsonweibo.com/weibos-new-online-guidelines-no-homosexuality-allowed/
+* 2018-04 https://www.washingtonpost.com/world/asia_pacific/congressional-leaders-urge-us-to-press-china-over-reports-of-mass-uighur-detentions/2018/04/05/9bd17c90-38b3-11e8-b57c-9445cc4dfa5e_story.html
+* 2018-03 https://supchina.com/2018/03/29/no-tattoos-at-the-2018-strawberry-music-festival-in-hangzhou/ Funny pics at: http://app.myzaker.com/news/article.php?f=xiongzhang&pk=5ac0eb1877ac6465da676481
+* 2018-02 https://www.nytimes.com/2018/02/25/world/asia/china-xi-jinping.html
+* 2018-02 https://www.theguardian.com/world/2018/jan/25/at-least-120000-muslim-uighurs-held-in-chinese-re-education-camps-report
+* 2018-01 https://www.theguardian.com/world/2018/jan/19/outspoken-chinese-human-rights-lawyer-yu-wensheng-arrested
+* 2018-01 https://www.reuters.com/article/us-hongkong-politics/hong-kong-activist-banned-from-by-election-in-what-pro-democracy-party-calls-payback-idUSKBN1FG06P
+* 2018-01 https://www.nytimes.com/2018/01/12/world/asia/china-church-dynamite.html
+* 2018-01 http://uk.businessinsider.com/china-marriott-tweets-censorship-2018-1?r=US&IR=T Marriott lists Taiwan as country in the website
+* 2018-01 http://chuangcn.org/2018/01/the-mastermind/
+* 2018-01 http://time.com/5112061/china-hip-hop-ban-tattoos-television/
+
+==== Xi abolishes term limits 2018-03
+
+* 包子露宪 https://chinadigitaltimes.net/2018/03/phrase-week-steamed-bun-betrays-constitution
+* https://www.nytimes.com/2018/03/10/world/asia/china-xi-jinping-term-limit-explainer.html
+
+=== News 2017
+
+* 2017-12 https://www.nytimes.com/2017/12/25/world/asia/china-wu-gan-sentence.html
+* 2017-11 低端人口 Low-end population
+** https://qz.com/1138395/low-end-population-what-you-need-to-know-about-chinas-crackdown-on-migrant-workers/
+* 2017-11 https://www.reddit.com/r/China/comments/7a7hf9/the_worlds_largest_academic_publisher_blocks/ Springer nature pulls sensitive articles. TODO article list.
+* 2017-09 https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html
+* 2017-08 http://www.independent.co.uk/news/world/asia/china-muslim-minority-school-language-ban-han-xinjiang-uyghur-hotan-hetian-government-communist-a7873446.html
+* 2017-07 https://qz.com/1056938/cambridge-university-press-china-quarterly-complies-with-censorship-removes-300-articles-on-topics-like-tiananmen-and-tibet-in-china/ Book list: https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer archive: http://web.archive.org/web/20170905214500/https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5?utm_content=bufferb652b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* 2017-07 https://techcrunch.com/2017/07/29/apple-removes-vpn-apps-from-the-app-store-in-china/
+* 2017-07 http://shanghaiist.com/2017/07/26/liu-xia-home-visit.php
+* 2017-06 http://www.rfa.org/english/news/uyghur/ordered-05092017155554.html Uyghurs studying abroad ordered to return to China
+* 2017-06 http://www.whatsonweibo.com/new-rules-online-videos-china-no-displays-homosexuality/
+* 2017-06 http://mashable.com/2017/06/23/china-bans-livestreaming/#FJ4h.sLYQqq9
+* 2017-05 https://qz.com/989454/a-chinese-students-commencement-speech-at-the-university-of-maryland-praising-fresh-air-and-democracy-is-riling-chinas-internet/
+* 2017-05 http://www.sixthtone.com/news/1000233/at-wedding-market%2C-mothers-of-gays-and-lesbians-face-resistance
+* 2017-05 https://ktar.com/story/1564381/ap-exclusive-china-lawyers-family-says-us-helped-them-flee
+* 2017-04 https://citizenlab.ca/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/
+* 2017-04 https://chinachange.org/2017/05/03/breaking-lawyer-chen-jiangang-with-family-and-two-friends-seized-by-armed-police-in-yunnan/
+* 2017-03 http://www.bbc.co.uk/news/world-asia-china-39137293 BBC Team forced to sign confession
+
+=== News 2016
+
+* 2016-11 http://www.bbc.co.uk/news/video_and_audio/headlines/38005603 Election china style, BBC interview with Chinese candidate, while thugs block him physically from nocking the door: Funny / scary stuff. https://www.reddit.com/r/China/comments/5dfigb/this_is_democracy_chinesestyle/
+* 2016-11 https://www.reddit.com/r/China/comments/5ai1s6/chinese_citizen_arrested_after_wearing_xitler/ https://wqw2010.blogspot.co.uk/2016/10/101.html Possible Twitter: https://twitter.com/kwonpyong
+* 2016-09: http://qz.com/783026/china-censorship-chinese-citizens-are-being-arrested-for-sharing-news-about-the-wukan-village-rebellion-online/ http://qz.com/781989/foreign-journalists-are-wanted-for-3000-by-chinese-authorities-for-inciting-unrest-in-a-village/ https://en.wikipedia.org/wiki/Wukan_protests
+* 2016-06 https://www.theguardian.com/music/2016/jun/28/china-lady-gaga-ban-list-hostile-foreign-forces-meeting-dalai-lama
+* 2016-06 https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md first GitHub takedown
+* 2016 http://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html?_r=0 queen says Chinese were rude in state visit
+* 2016 http://shanghaiist.com/2016/05/06/dont_eat_that_banana.php Sexy banana eating forbidden
+* 201X http://qz.com/671211/chinas-propaganda-outlets-have-leaped-the-top-of-facebook-even-though-it-banned-at-home/ Chinese government uses forbidden media in China like Facebook and Twitter, possibly click farmed
+* 2016-04 http://blogs.reuters.com/great-debate/2016/01/26/china-threatens-sanctions-against-u-s-companies-is-this-the-future/ China economic sanctions companies that sell weapons to Taiwan (some of those companies also sell civilian products to China)
+* 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-disneylife-service-887599 Disney Life blocked
+* 2016-04 http://www.hollywoodreporter.com/news/china-demands-shutdown-apples-film-886831 Apple iTunes and iBooks blocked
+* 2016 http://www.bbc.com/news/blogs-news-from-elsewhere-35968855 China's 'Great Firewall' blocks its creator
+* 2016 Panama papers 巴拿马文件
+** https://en.wikipedia.org/wiki/Panama_Papers
+** https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6
+** mention Deng Jiagui 邓家贵 https://en.wikipedia.org/wiki/Deng_Jiagui , who is Xi Jinping's brother-in-law
+* 2016 http://www.theguardian.com/tv-and-radio/2016/mar/04/china-bans-gay-people-television-clampdown-xi-jinping-censorship gay depiction banned on television
+* 2016 http://www.nytimes.com/2016/02/27/world/asia/china-zhejiang-christians-pastor-crosses.html pastor 14 years jail
+* 2016 http://www.bbc.com/news/blogs-trending-35496562 Armani Communist - http://www.ibtimes.com/xi-jinping-wants-overhaul-image-chinas-rich-kids-1961207 - first section of https://www.youtube.com/watch?v=ZKQ5ijFZ_j8
+* 2016 http://freebeacon.com/national-security/chinese-defector-reveals-beijings-secrets/ Ling Wancheng defects
+* 2016 http://chinachange.org/2016/01/21/activist-in-xinjiang-sentenced-to-19-years-for-online-writings-and-rights-activities/ Zhang Haitao (张海涛) faces 19 years in jail for his blog posts
+* 2016 http://money.cnn.com/2016/01/20/technology/facebook-android-tor/ Facebook Android app implements Tor option
+* 2016 https://www.reddit.com/r/China/comments/41y6ig/hong_kong_movie_predicts_dark_future_for_city/ Honk Kong (2016) movie
+
+=== News 2015
+
+* 2015-11 http://technode.com/2015/11/24/surge-advanced-proxy-tool-ios-pulled-app-store/
+* 2015 https://news.vice.com/article/the-missing-hong-kong-booksellers-family-isnt-buying-his-televised-confession Gui Minhai, 51, from publisher Mighty Current who was going to publish a book about Xi Jinping's love life.
+** Lam Wingkee is another one of the detaine bookselers
+*** https://en.wikipedia.org/wiki/Lam_Wing-kee
+*** https://www.youtube.com/watch?v=dHq0f_eGLhE 2016 interview in freedom
+*** https://china-journal.org/2019/04/27/abducted-hong-kong-bookseller-has-fled-to-taiwan-to-avoid-extradition-to-china/
+* 2015 https://www.washingtonpost.com/world/asia_pacific/christians-in-china-feel-full-force-of-authorities-repression/2015/12/23/7dd0ec5a-a736-11e5-b596-113f59ee069a_story.html
+* 2015 Taiwan #1
+** https://www.reddit.com/r/OutOfTheLoop/comments/3tz3jq/what_is_the_point_of_the_taiwan_1_thing/
+** https://www.youtube.com/watch?v=vTqZ9xrxhHk
+* 2015 Taiwanese beauty queen kicked out of Miss Earth pageant for refusing to change `Taiwan ROC' sash to `Chinese Taipei' http://shanghaiist.com/2015/11/23/miss-earth-ting-wen-yin.php
+* 2015 https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders https://github.com/shadowsocks/shadowsocks shadowsocks creator threatened
+* 2015 http://www.bbc.com/news/entertainment-arts-34630829 Lego refuses to sell to Ai Weiwei
+* 2015 http://www.nytimes.com/2015/10/13/world/asia/china-bao-zhuoxuan-son-wang-yu-rights-lawyer-house-arrest.html Bao Zhuoxuan 16-year old son of human rights layer in house arrest
+* 2015 Human rights activists crackdown 200+ in jail
+** http://www.nytimes.com/2015/07/23/world/asia/china-crackdown-human-rights-lawyers.html
+** http://edition.cnn.com/2015/07/13/china/china-activists-arrests/
+** http://time.com/3954935/china-arrests-lawyers-human-rights/
+** https://program-think.blogspot.com/2015/07/weekly-share-90.html
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B710%E3%80%8C%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E3%80%8D%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6
+** #710律师劫
+** https://program-think.blogspot.com/2015/07/weekly-share-90.html
+* 2015-03 China forces real usernames on the net, and provoking ones
+** https://advox.globalvoices.org/2015/04/16/new-internet-rules-in-china-target-usernames-avatars-as-subversive-tools/
+** http://www.engadget.com/2015/02/28/china-username-policy-purge/
+
+=== News pre-2015
+
+* 2014 https://www.reddit.com/r/China/comments/4hmhzt/xinjiang_massacre_2014_resulted_in_30005000_deaths/ something very serious happened in Xinjiang.
+* 2014 https://youtu.be/Gq1B3Hgclyo?t=261 http://www.theguardian.com/world/2014/nov/28/china-media-watchdog-bans-wordplay-puns pun control
+* 2013 https://www.ft.com/content/db8b9e36-1119-11e8-940e-08320fc2a277 Peter Humphrey
+* 2012 https://en.wikipedia.org/wiki/Nuctech. One of the most blocked on Wikipedia according to: link:complete-gfw-rulebook-for-wikipedia-v3.0.pdf[] Nutech Namiba Hu Haifeng corruption scandal 纳米比亚威视胡海峰腐败丑闻
+* 2011 https://en.wikipedia.org/wiki/2011_Chinese_pro-democracy_protests https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD Chinese pro-democracy protests
+* 2010 http://news.bbc.co.uk/2/hi/asia-pacific/8682145.stm 10 month Xinjiang internet blackout
+* 2009 https://en.wikipedia.org/wiki/Tan_Zuoren#2009_court_case Ai Weiwei documentary about it: https://aiweiwei.com/documentaries/disturbing-the-peace/index.html
+* 2008 https://en.wikipedia.org/wiki/Tofu-dreg_project 豆腐渣工程 https://en.wikipedia.org/wiki/China%27s_Unnatural_Disaster:_The_Tears_of_Sichuan_Province
+* 2008 https://en.wikipedia.org/wiki/Wenzhou_train_collision#Government_response https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E7%94%AC%E5%8F%B0%E6%B8%A9%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85 Wenzhou train collision 2011年甬台温铁路列车追尾事故:
+* 2008 https://en.wikipedia.org/wiki/2008_Tibetan_unrest https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1 Tibetan unrest 西藏骚乱
+** https://file.wikileaks.org/file/tibet-protest-photos/ Good gory photos from the event.
+* 2005 https://en.wikipedia.org/wiki/Dongzhou_protests https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B4%B2%E4%BA%8B%E4%BB%B6 Dongzhou protests
+* 1999 http://www.lionsroar.com/apple-thinks-different-about-the-dalai-lama-in-china-2/ Apple censors Dalai Lama for China
+* https://en.wikipedia.org/wiki/1986_Chinese_student_demonstrations https://zh.wikipedia.org/wiki/%E5%85%AB%E5%85%AD%E5%AD%A6%E6%BD%AE 八六学潮
+* 1987–1989 https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest https://zh.wikipedia.org/wiki/1989%E5%B9%B4%E6%8B%89%E8%90%A8%E9%AA%9A%E4%B9%B1. Videos: https://www.youtube.com/watch?v=0jylh1qfOG4, https://www.youtube.com/watch?v=qMZgoRuPJBg Tibetan unrest 年拉萨骚乱
+* 1978, 1997 https://en.wikipedia.org/wiki/Beijing_Spring https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 https://en.wikipedia.org/wiki/Democracy_Wall https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
+
+==== Tiananmen 1989
+
+* 1989 https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989 https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 Tiananmen Square protests 六四事件:
+** https://en.wikipedia.org/wiki/Goddess_of_Democracy https://zh.wikipedia.org/wiki/中国国际广播电台
+** AP footage is pretty good, just do a search on the archive:
+*** http://www.aparchive.com/metadata/China-Student-Demonstrations/5d1cd01250c9e5e9397f20ef9f1327df
+*** http://www.aparchive.com/metadata/China-Student-Demonstrations/cfc6890746010c73f9414e20906268aa
+** Zhang Shijun is the most notable soldier who spoke up it seems:
+*** https://chinadigitaltimes.net/2009/03/china-detains-writer-of-critical-web-letter-to-hu/
+*** https://www.rfa.org/english/news/china/flashbacks-06042018133558.html
+*** https://www.theguardian.com/world/2009/mar/20/tiananmen-square-china-zhang-shijun
+* http://www.ursulagauthier.fr/tiananmen-15-minutes-dapocalypse/ a few gory photos
+
+== Media 媒体
+
+Sources of information pertinent to this repository.
+
+=== Commentary media
+
+The following offer interesting commentary, but not to be used as primary sources:
+
+* https://china-journal.org
+* http://www.chinafile.com Some good articles. "ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society", based in New York.
+
+=== Biased media
+
+I consider the media in this section biased, and never cite it for fact checking.
+
+=== Chinese government media
+
+* https://en.wikipedia.org/wiki/Xinhua_News_Agency
+** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E7%A4%BE
+** http://www.xinhuanet.com/
+* https://en.wikipedia.org/wiki/People%27s_Daily
+** https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5
+** http://people.cn/
+** https://twitter.com/PDChina
+* https://en.wikipedia.org/wiki/China_Daily
+* https://en.wikipedia.org/wiki/Confucius_Institute
+** https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2
+** http://www.economist.com/node/17969895>
+* https://en.wikipedia.org/wiki/China_Radio_International
+** https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
+** http://www.cri.cn> <http://english.cri.cn/
+* https://en.wikipedia.org/wiki/China_Central_Television
+** https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg CGTN, CCTV's international branch in English
+* http://facts.org.cn/
+** http://wap.kaiwind.com/
+** I have no proof that this is linked to the government, but it is very likely, even the Chinese embassy website links to it:
+*** http://www.china-embassy.org/eng/lj/t36322.htm
+*** http://web.archive.org/web/20180414233331/http://www.china-embassy.org/eng/lj/t36322.htm
+
+==== Falun Gong media
+
+* https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television
+** https://zh.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
+** https://www.youtube.com/user/Laowaikanzhongguo Laowai kan Zhongguo
+** https://www.youtube.com/channel/UCgFP46yVT-GG4o1TgXn-04Q China Uncensored
+** https://www.youtube.com/user/NTDOffTheGreatWall Off the Great Wall
+* https://en.wikipedia.org/wiki/The_Epoch_Times
+** https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
+* http://en.minghui.org/
+** http://falundafa.org/ links to it
+** http://www.clearwisdom.net/
+* http://www.secretchina.com/
+* http://fofg.org/
+* https://en.wikipedia.org/wiki/Sound_of_Hope
+** http://www.soundofhope.org/
+** http://www.bayvoice.net/gb/
+* http://lotus-sacre.com/
+* https://en.tuidang.org/
+** https://en.wikipedia.org/wiki/Tuidang_movement
+* http://dongtaiwang.com
+** https://en.wikipedia.org/wiki/Freegate
+
+==== USA government media
+
+* https://en.wikipedia.org/wiki/Voice_of_America
+** http://www.voa.com/
+** http://www.voachinese.com/
+** http://www.voacantonese.com/
+
+[[videos]]
+== Videos 视频
+
+See my "China Politics" playlist for a collection of all sensitive videos I have ever found on YouTube: https://www.youtube.com/playlist?list=PLcZOZrP1P_V5d7RMOKXF1PT70fcfYJpgY Ping me if you find any I haven't included.
+
+Interesting videos that were deleted / made private since I added them:
+
+* 2019-04-17 http://web.archive.org/web/20190424021220/https://www.youtube.com/watch?v=lPnnHCeRH3w the Leica ad: https://www.theverge.com/2019/4/19/18508009/leica-china-censored-ad-tiananmen-square-protests-weibo Re-upload by SCMP: https://www.youtube.com/watch?v=lcuLZDHLFt8
+* 2019-05-18 https://www.youtube.com/watch?v=qAEUafI_lyI not on Web Archive, lesson learnt
+
+[[funny]]
+== Funny 好笑
+
+Humour is the greatest weapon against dictators:
+
+* https://web.archive.org/web/20170801011641/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg Whinnie the Pooh Xi Jinping Obama Tiger
+* http://media.cagle.com/78/2017/03/08/192621_600.jpg
+* https://www.reddit.com/r/China/comments/3pqljx/zimbabwes_ruthless_dictator_mugabe_wins_chinas/ 2015 Zimbabwe dictator wins Confucius prize
+* https://www.youtube.com/watch?v=V4WBsahU3X4 Stephen Colbert comments on how American films make a good image of China to be allowed in China by censors to increase sales.
+* https://www.hongkongfp.com/2015/09/03/in-pictures-censored-memes-search-terms-and-images-from-chinas-wwii-parade/
+* https://upload.wikimedia.org/wikipedia/en/e/ec/Duck_man.jpg
+* https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29 https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF97_%28%E9%81%8A%E6%88%B2%29
+* https://en.wikipedia.org/wiki/Falun https://zh.wikipedia.org/wiki/%E6%B3%95%E5%80%AB A Swedish city called Falun 名为法倫的瑞典城市 Oh, BTW, one of the oldest operating companies in the world is from there: https://en.wikipedia.org/wiki/Falun_Mine
+* http://9gag.com/gag/ayn7KmW?ref=fbp Left Right Slaughterhouse comic, Dictatorships love this one.
+* http://chinadigitaltimes.net/2015/05/artist-detained-after-posting-humorous-photo-of-xi-jinping/
+* http://www.miniharm.com/
+
+== Censorship
+
+=== Censorship is necessary to protect China from harmful USA propaganda
+
+I don't think this is below the USA, but:
+
+* without censorship, you would be much richer and stronger, and more able to defend yourselves
+* why does China also censor its own people in addition to foreign propaganda?
+* maybe this fear is greatly emphasised by the Chinese government beyond truth just to help them keep control of the country by fear and maintain their own power. Can the Americans really have that much influence in your country?
+* maybe the regions that want to split from China feel like China is not giving them anything back, and they are themselves looking for allies outside of China to help them split. With democracy, people are more likely to get what they want, and there will be split parties and votes.
+* the same argument can be used to justify any action, no matter how bad. E.g.: we must put all who criticize the government in jail, or else they will make China less united and weaker against the USA!
+
+
+=== Censorship monitoring
+
+Projects that atttempt to understand how the Great Firewall works and what it blocks:
+
+* http://greatfire.org/
+** https://en.wikipedia.org/wiki/GreatFire
+** https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A
+** https://freeweibo.com/ related project by the same organization, a Weibo archive it seems
+** https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how made some noise at the time
+** https://twitter.com/GreatFireChina
+* other websites: http://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/288497#288497
+* Garry King Harvard papers:
+** http://gking.harvard.edu/50c#
+** http://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
+** http://gking.harvard.edu/publications/randomized-experimental-study-censorship-china
+* https://github.com/phoeagon/gfw-sim GFW emulation
+* https://github.com/citizenlab/chat-censorship data on Censorship
+
+=== gfwlist
+
+https://github.com/gfwlist/gfwlist
+
+Chinese people widely use this website list with browser extensions, so as to only use more expensive and risky censorship circunvention traffic when accessing certain webpages.
+
+The result is a well maintained list of interesting websites. About half of which is porn.
+
+Get the full list with:
+
+....
+base64 -d gfwlist.txt
+....
+
+See also:
+
+* https://github.com/gfwlist/gfwlist/issues/3 "How to use this repo?"
+* https://github.com/gfwlist/gfwlist/issues/1141 "Add categories tags to each entry"
+
+== Backlinks to this repository
+
+Or to my other online presences, due to China activity:
+
+* 2019-06: https://gking.harvard.edu/ interesting. OK, likely due to: https://gking.harvard.edu/category/research-interests/applications/information-control-by-authoritarian-governments but no direct links found though.
+* 2019-05: someone used the FAQ to answer a question: https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/ "‘If I disappear’: Chinese students make farewell messages amid crackdowns over labor activism"
+* 2019-04-10: https://twitter.com/jnzst/status/1115824398961913857 gGTYgFulPg
+** https://twitter.com/jnzst/status/1111395254408613888
+* 2019-04-09: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 "【小众问题】为何 Stack Overflow 2019 开发者调查报告中，来自中国的开发者最为积极乐观？"
+** 2019-05: https://community.riskiq.com/search/pincong.rocks pingcong people deciding if they should ban me? :-) commented there once: https://pincong.rocks/question/3383 | http://web.archive.org/web/20190527072431/https://www.reddit.com/r/worldnews/comments/bt1mth/if_i_disappear_chinese_students_make_farewell/eou5a5q/http://web.archive.org/web/20190413063930/https://pincong.rocks/question/3383 This also suggests that https://en.wikipedia.org/wiki/RiskIQ helps censorship in China
+* 2019-03 https://www.zhihu.com/question/316700162 | http://archive.is/ewxqb "如何看待Github Trending上Ciro Santilli的众多开源项目？". Due to: https://github.com/cirosantilli/x86-bare-metal-examples/wiki
+* 2019-01-10: https://twitter.com/ninoseki/statuses/1083512317952704512 | http://archive.is/vCwep 1300 followers.
+* 2018-11: (deleted) https://www.zhihu.com/question/302738350 | http://archive.is/lkQxS "如何评价Ciro Santilli对Stack Overflow和GitHub的扰乱？"
+* 2018-08: https://www.reddit.com/r/CCJ2/comments/93klir/moron_tries_to_dismantle_chinese_government_by | http://archive.is/HtYng "moron tries to dismantle chinese government by putting a few moon runes on some websites" Peak of 100 unique visitors / day from base rate of 5
+** led to: https://lihkg.com/thread/762440/page/1 | http://archive.is/7REOi "佢個個人home page好多5毛留言, 唔知會唔會搞到block堆stackoverflow"
+* 2018-07: http://4-ch.net/general/kareha.pl/1531480621/l50 | http://web.archive.org/web/20180815081351/http://4-ch.net/general/kareha.pl/1531480621/l50 "No more Xi Jinping"
+* 2018-06: http://medarc.org/pac.txt | https://web.archive.org/web/20180712094944/http://medarc.org/pac.txt puts cirosantilli.com in a blacklist containing the likes of asianpiss.com and clearwisdom.net. Awesome. Then I grepped the main one https://github.com/gfwlist/gfwlist with `while true; do git checkout HEAD~; if ! base64 -d gfwlist.txt | grep -q cirosan; then break; fi; done` and found that I was added in 24a6f6f29e24d1d7eb27946bf51d7a072ddb3e6d Tue Apr 24 2018. That is input data for https://addons.mozilla.org/en-US/firefox/addon/autoproxy/ which turns on a proxy only for certain websites. Therefore that is a definitive list of interesting stuff. I wonder how it is curated.
+* 2018-06: https://greasyfork.org/zh-CN/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 "StackOverflow净化器"
+** https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8 JavaSript script to hide my username on SO! Nice.
+** github user with the same username: https://github.com/EternalPhane
+** http://web.archive.org/web/20181211094818/https://greasyfork.org/en/scripts/32236-stackoverflow%E5%87%80%E5%8C%96%E5%99%A8
+** http://web.archive.org/web/20181211094917/https://greasyfork.org/en/forum/discussion/47981
+* 2018-05: a few hits from https://chinadigitaltimes.net but Google cannot find any links
+* 2018-05-20:
+** https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684 Archive: http://web.archive.org/web/20190701085047/https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684
+** http://web.archive.org/web/20180520210006/http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425684&pid=3954113&page=1&extra=
+* 2018-04-13: traffic peak, but no linkbacks. Many new Chinese followers, but few new stars on this repo, maybe they are afraid to star? Also someone (bot?) subscribed me to a hundred GovDelivery mailing lists, possibly linked? I also blocked an user from on GitHub due to impolite post. Also possibly linked to me posting a link to the FAQ more clearly on my home page recently: https://github.com/cirosantilli/cirosantilli.github.io/commit/f31d1651c0e7fef587e5910ff2dc1e2aba9a5763
+* 2018-03-11: got a large traffic peak (60 vs 10 average), but no linkbacks to match. Likely source: parcerier pinged me at: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562812_288497 and I revamped the and FAQ replied with https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562840_320914 Someone also made: http://archive.is/jcZCA which points to: https://meta.stackoverflow.com/questions/267715/is-stack-overflow-accessible-in-china/267723#comment562810_267723 . This issue was opened that day as well: https://github.com/cirosantilli/china-dictatorship/issues/12
+* 2018-01: https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1088&context=cs_etds this site appears on the reference of a PhD thesis paper haha, links to complete-gfw-rulebook-for-wikipedia-v3.0.pdf.
+* 2017-05: https://t.co/AosRq06akz TODO where from. "Measuring Decentralization of Chinese Censorship in Three Industry Segments" by Jeffrey Knockel. Now at Citizenlab: https://www.cs.unm.edu/~jeffk/
+* 2017-03-07 https://zhuanlan.zhihu.com/p/25600138 Archive: http://archive.is/DkooN "StackOverflow 上的一个智障用户"
+** 2017-03 https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow Archive: http://web.archive.org/save/https://sololand.moe/2017/03/06/brain-fucked-user-on-stackoverflow/ by https://github.com/brglng/ "StackOverflow 上的一个智障用户"
+* 2016-09 https://www.zhihu.com/question/46957710 Archive: http://archive.is/PVOLd "github.com@cirosantilli 是谁维护的，为什么会收集邮箱地址？"
+* 2015-12-23: https://v2ex.com/t/245507 (link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-12.html[Chromium CTRL-S save]) "搜 StackOverflow，无意间发现了这个，重点在那个评论" by https://v2ex.com/member/happypy1
+* 2015-09-03: (deleted) http://www.weibo.com/2014703917/Cyc1gFt7A This is the user: http://www.weibo.com/2014703917 There have also been accesses from link:http://weibo.cn/sinaurl[], but I don't know what that means.
+* 2015-08-18: (deleted) http://www.zhihu.com/question/34775392 Archive: https://web.archive.org/web/20160219094646/https://www.zhihu.com/question/34775392 "你们怎么看stackoverflow上某人故意屏蔽中国访问的事件？"
+* 2015-08-03: 21 visitor Facebook peak, can't find source
+* 2015-06-20: (deleted) link:https://www.plurk.com/p/l1jjn4[] Archive: http://web.archive.org/web/20150918110032/https://www.plurk.com/p/l1jjn4 "這阿豆阿的名字XDD" by https://www.plurk.com/m/u/cyuanXD
+* 2015-04-10: https://v2ex.com/t/182766 (cannot archive, login requires CAPTCHA, link:https://github.com/cirosantilli/media/blob/9f7b07e915c4638d45a1b4922ba95c61e2ef87dc/webpages/v2ex-2015-04.html[Chromium CTRL-S save]) "Stack Overflow 上看到一个丧心病狂的程序员" by https://v2ex.com/member/cloudhunter
+
+== Other sections
+
+TODO migrate all into this README.
+
+. link:censorship.md[Censorship]
+. link:media.md[Media]
+. link:dissidents.md[Dissidents]
+. link:movements.md[Movements against the Dictatorship]
+. link:images/[Images]
+. link:policies.md[Policies]
+. link:stack-overflow.md[Stack Overflow]
+. link:stack-overflow-profile.md[Stack Overflow profile]
+. Personal
+.. link:communities-that-censor-politics.md[Communities that censor politics]
